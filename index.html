@@ -3,115 +3,197 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Лента новостей — автообновление</title>
+<title>Лента — новости из RSS</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23b5361c'/%3E%3Cpath d='M3 4h10M3 8h10M3 12h6' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E">
 <style>
-  :root { --bg:#f6f7f9; --card:#fff; --text:#1a1d21; --muted:#6b7280; --accent:#4f46e5; --line:#e5e7eb; }
+  :root {
+    --paper: #f4f0e6;
+    --ink: #1c1b18;
+    --dim: #7a7567;
+    --rule: #d6cfbd;
+    --red: #b5361c;
+  }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#0f1115; --card:#181b21; --text:#e8eaee; --muted:#9aa1ad; --accent:#818cf8; --line:#2a2f38; }
+    :root { --paper:#1a1916; --ink:#e7e2d4; --dim:#948e7e; --rule:#34312a; --red:#e0603f; }
   }
   * { box-sizing: border-box; }
-  body { margin:0; font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; background:var(--bg); color:var(--text); }
-  header { max-width:1000px; margin:0 auto; padding:28px 16px 8px; }
-  h1 { margin:0 0 4px; font-size:26px; }
-  .sub { color:var(--muted); font-size:14px; }
-  .controls { max-width:1000px; margin:0 auto; padding:12px 16px; display:flex; flex-wrap:wrap; gap:10px; }
-  input, select { font:inherit; padding:9px 12px; border:1px solid var(--line); border-radius:10px; background:var(--card); color:var(--text); }
-  input { flex:1 1 220px; }
-  .chips { max-width:1000px; margin:0 auto; padding:0 16px 8px; display:flex; flex-wrap:wrap; gap:8px; }
-  .chip { border:1px solid var(--line); background:var(--card); color:var(--text); padding:6px 14px; border-radius:999px; cursor:pointer; font:inherit; font-size:14px; }
-  .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
-  main { max-width:1000px; margin:0 auto; padding:8px 16px 48px; display:grid; gap:14px; grid-template-columns:repeat(auto-fill,minmax(290px,1fr)); }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; display:flex; flex-direction:column; }
-  .card img { width:100%; height:150px; object-fit:cover; display:block; }
-  .body { padding:14px 16px 16px; display:flex; flex-direction:column; gap:8px; flex:1; }
-  .meta { display:flex; justify-content:space-between; gap:8px; font-size:12.5px; color:var(--muted); }
-  .tag { color:var(--accent); font-weight:600; }
-  .card a { color:inherit; text-decoration:none; font-weight:600; line-height:1.35; }
-  .card a:hover { color:var(--accent); }
-  .card p { margin:0; color:var(--muted); font-size:14px; }
-  .empty { grid-column:1/-1; text-align:center; color:var(--muted); padding:40px 0; }
+  html { background: var(--paper); }
+  body {
+    margin: 0 auto; max-width: 980px; padding: 0 20px 60px;
+    color: var(--ink); background: var(--paper);
+    font: 17px/1.45 Georgia, "Times New Roman", serif;
+  }
+  a { color: inherit; }
+  header { padding: 26px 0 10px; border-bottom: 3px double var(--ink); display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { margin: 0; font-size: 34px; letter-spacing: -0.5px; font-weight: 700; }
+  h1 span { color: var(--red); }
+  .stamp { font: 12.5px/1.3 ui-monospace, Consolas, monospace; color: var(--dim); text-align: right; }
+
+  .layout { display: grid; grid-template-columns: 190px 1fr; gap: 34px; margin-top: 18px; }
+  @media (max-width: 720px) { .layout { grid-template-columns: 1fr; gap: 8px; } }
+
+  aside { font: 14px/1.4 ui-monospace, Consolas, monospace; }
+  aside h2 { font: 700 11px/1 ui-monospace, Consolas, monospace; text-transform: uppercase; letter-spacing: 1.2px; color: var(--dim); margin: 18px 0 8px; }
+  aside ul { list-style: none; margin: 0; padding: 0; }
+  @media (max-width: 720px) { aside ul { display: flex; flex-wrap: wrap; gap: 4px 14px; } }
+  aside button {
+    all: unset; cursor: pointer; display: flex; justify-content: space-between; gap: 10px;
+    padding: 2px 0; width: 100%;
+  }
+  @media (max-width: 720px) { aside button { width: auto; } }
+  aside button:hover { color: var(--red); }
+  aside button.on { color: var(--red); font-weight: 700; }
+  aside button i { font-style: normal; color: var(--dim); }
+  aside button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+
+  .bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 0 0 12px; border-bottom: 1px solid var(--rule); }
+  input[type=search], select {
+    font: 14px ui-monospace, Consolas, monospace; color: var(--ink);
+    background: transparent; border: 0; border-bottom: 1px solid var(--ink); border-radius: 0;
+    padding: 5px 2px;
+  }
+  input[type=search] { flex: 1 1 220px; }
+  select option { background: var(--paper); }
+
+  .day { font: 700 12px/1 ui-monospace, Consolas, monospace; text-transform: uppercase; letter-spacing: 1.2px; color: var(--red); margin: 26px 0 4px; }
+  .item { padding: 11px 0; border-bottom: 1px solid var(--rule); }
+  .item a.t { font-size: 19px; line-height: 1.3; text-decoration: none; font-weight: 700; }
+  .item a.t:hover { text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 3px; }
+  .item a.t:visited { color: var(--dim); }
+  .item p { margin: 4px 0 0; color: var(--dim); font-size: 15px; }
+  .meta { font: 12.5px ui-monospace, Consolas, monospace; color: var(--dim); margin-top: 5px; }
+  .meta b { color: var(--ink); font-weight: 600; }
+  .none { padding: 40px 0; color: var(--dim); font-style: italic; }
+
+  footer { margin-top: 40px; padding-top: 12px; border-top: 1px solid var(--rule); font: 12.5px/1.5 ui-monospace, Consolas, monospace; color: var(--dim); }
 </style>
 </head>
 <body>
 <header>
-  <h1>Лента новостей</h1>
-  <div class="sub" id="status">Загрузка…</div>
+  <h1>Лента<span>.</span></h1>
+  <div class="stamp" id="stamp">загружаю…</div>
 </header>
-<div class="controls">
-  <input id="q" type="search" placeholder="Поиск по заголовкам и описанию">
-  <select id="source"><option value="">Все источники</option></select>
-  <select id="sort">
-    <option value="new">Сначала новые</option>
-    <option value="old">Сначала старые</option>
-    <option value="source">По источнику</option>
-  </select>
-  <select id="period">
-    <option value="0">За всё время</option>
-    <option value="1">За сутки</option>
-    <option value="7">За неделю</option>
-  </select>
+
+<div class="layout">
+  <aside>
+    <h2>Темы</h2>
+    <ul id="topics"></ul>
+    <h2>Источники</h2>
+    <ul id="sources"></ul>
+  </aside>
+
+  <main>
+    <div class="bar">
+      <input id="q" type="search" placeholder="поиск  ( / )" autocomplete="off">
+      <select id="period" aria-label="Период">
+        <option value="0">всё</option>
+        <option value="1">за сутки</option>
+        <option value="7">за неделю</option>
+      </select>
+      <select id="sort" aria-label="Порядок">
+        <option value="new">новые сверху</option>
+        <option value="old">старые сверху</option>
+      </select>
+    </div>
+    <div id="list"></div>
+  </main>
 </div>
-<div class="chips" id="chips"></div>
-<main id="list"></main>
+
+<footer>
+  Данные собирает <code>fetch_feeds.py</code> из открытых RSS-лент, раз в час его запускает GitHub Actions.
+  Заголовки ведут на сайты источников. Ничего не хранится, кроме JSON с последними записями.
+</footer>
 
 <script>
 const $ = id => document.getElementById(id);
-const state = { items: [], topic: "" };
+const state = { items: [], topic: "", source: "" };
 
 const esc = s => s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmt = iso => new Date(iso).toLocaleString("ru-RU", { day:"numeric", month:"short", hour:"2-digit", minute:"2-digit" });
+const MONTHS = ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"];
 
-function render() {
+function ago(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "только что";
+  if (m < 60) return m + " мин назад";
+  const h = Math.floor(m / 60);
+  if (h < 24) return h + " ч назад";
+  const d = new Date(iso);
+  return d.getDate() + " " + MONTHS[d.getMonth()];
+}
+function dayLabel(iso) {
+  const d = new Date(iso), now = new Date();
+  const start = x => new Date(x.getFullYear(), x.getMonth(), x.getDate()).getTime();
+  const diff = Math.round((start(now) - start(d)) / 864e5);
+  if (diff === 0) return "Сегодня";
+  if (diff === 1) return "Вчера";
+  return d.getDate() + " " + MONTHS[d.getMonth()];
+}
+
+function filtered(ignore) {
   const q = $("q").value.trim().toLowerCase();
-  const src = $("source").value;
   const days = Number($("period").value);
   const since = days ? Date.now() - days * 864e5 : 0;
-  let rows = state.items.filter(i =>
-    (!state.topic || i.topic === state.topic) &&
-    (!src || i.source === src) &&
+  return state.items.filter(i =>
+    (ignore === "topic" || !state.topic || i.topic === state.topic) &&
+    (ignore === "source" || !state.source || i.source === state.source) &&
     (!since || new Date(i.date) >= since) &&
     (!q || (i.title + " " + i.summary).toLowerCase().includes(q)));
-  const sort = $("sort").value;
-  rows.sort((a, b) =>
-    sort === "old" ? a.date.localeCompare(b.date) :
-    sort === "source" ? a.source.localeCompare(b.source) || b.date.localeCompare(a.date) :
-    b.date.localeCompare(a.date));
-  $("list").innerHTML = rows.length ? rows.map(i => `
-    <article class="card">
-      ${i.image ? `<img loading="lazy" src="${esc(i.image)}" alt="" onerror="this.remove()">` : ""}
-      <div class="body">
-        <div class="meta"><span class="tag">${esc(i.topic)}</span><span>${esc(i.source)} · ${fmt(i.date)}</span></div>
-        <a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a>
-        ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
-      </div>
-    </article>`).join("") : `<div class="empty">Ничего не найдено</div>`;
 }
 
-function buildFilters() {
-  const topics = [...new Set(state.items.map(i => i.topic))];
-  $("chips").innerHTML = ["", ...topics].map(t =>
-    `<button class="chip${t === state.topic ? " on" : ""}" data-t="${esc(t)}">${t || "Все темы"}</button>`).join("");
-  const sources = [...new Set(state.items.map(i => i.source))];
-  $("source").insertAdjacentHTML("beforeend", sources.map(s => `<option>${esc(s)}</option>`).join(""));
+function countBy(rows, key) {
+  const m = new Map();
+  rows.forEach(r => m.set(r[key], (m.get(r[key]) || 0) + 1));
+  return [...m.entries()].sort((a, b) => b[1] - a[1]);
 }
 
-$("chips").addEventListener("click", e => {
-  const b = e.target.closest(".chip"); if (!b) return;
-  state.topic = b.dataset.t;
-  document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === b));
+function sideList(id, key, current, rows, allLabel) {
+  const total = rows.length;
+  const li = (val, label, n) =>
+    `<li><button data-k="${key}" data-v="${esc(val)}" class="${val === current ? "on" : ""}">${esc(label)}<i>${n}</i></button></li>`;
+  $(id).innerHTML = li("", allLabel, total) + countBy(rows, key).map(([v, n]) => li(v, v, n)).join("");
+}
+
+function render() {
+  sideList("topics", "topic", state.topic, filtered("topic"), "все");
+  sideList("sources", "source", state.source, filtered("source"), "все");
+
+  const rows = filtered().sort((a, b) =>
+    $("sort").value === "old" ? a.date.localeCompare(b.date) : b.date.localeCompare(a.date));
+
+  let html = "", last = "";
+  for (const i of rows) {
+    const label = dayLabel(i.date);
+    if (label !== last) { html += `<div class="day">${label}</div>`; last = label; }
+    html += `<article class="item">
+      <a class="t" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a>
+      ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
+      <div class="meta"><b>${esc(i.source)}</b> · ${esc(i.topic)} · ${ago(i.date)}</div>
+    </article>`;
+  }
+  $("list").innerHTML = html || `<div class="none">Ничего не нашлось. Попробуйте убрать фильтр.</div>`;
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("aside button"); if (!b) return;
+  state[b.dataset.k] = b.dataset.v;
   render();
 });
-["q", "source", "sort", "period"].forEach(id => $(id).addEventListener("input", render));
+["q", "period", "sort"].forEach(id => $(id).addEventListener("input", render));
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus(); }
+});
 
 fetch("data/items.json", { cache: "no-cache" })
   .then(r => r.json())
   .then(d => {
     state.items = d.items;
-    $("status").textContent = `Обновляется автоматически · последнее обновление: ${fmt(d.updated)} · материалов: ${d.items.length}`;
-    buildFilters();
+    const t = new Date(d.updated);
+    $("stamp").innerHTML = "обновлено " + t.getDate() + " " + MONTHS[t.getMonth()] + ", " +
+      String(t.getHours()).padStart(2, "0") + ":" + String(t.getMinutes()).padStart(2, "0") +
+      "<br>записей: " + d.items.length;
     render();
   })
-  .catch(() => { $("status").textContent = "Не удалось загрузить данные"; });
+  .catch(() => { $("stamp").textContent = "не удалось загрузить данные"; });
 </script>
 </body>
 </html>

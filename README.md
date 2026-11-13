@@ -1,10 +1,20 @@
-# Auto-updating news feed
+# Лента
 
-Static site that refreshes itself on a schedule.
+Небольшой сайт-агрегатор: собирает свежие новости из RSS и показывает их списком с фильтрами. Сам обновляется раз в час, руками ничего публиковать не нужно.
 
-- `fetch_feeds.py` pulls RSS feeds (standard library only) into `data/items.json`.
-- `.github/workflows/update.yml` runs it every hour and commits the result.
-- `index.html` renders cards with topic/source/date filters, search and sorting.
+Как устроено:
 
-Run locally: `python fetch_feeds.py && python -m http.server 8000`, then open http://localhost:8000.
-Add a source: append a `(name, topic, url)` tuple to `FEEDS` in `fetch_feeds.py`.
+- `fetch_feeds.py` скачивает RSS-ленты (только стандартная библиотека Python) и складывает записи в `data/items.json`;
+- `.github/workflows/update.yml` запускает скрипт каждый час и коммитит результат;
+- `index.html` одним файлом читает JSON и рисует ленту: темы, источники, период, поиск (клавиша `/`).
+
+Запуск у себя:
+
+```
+python fetch_feeds.py
+python -m http.server 8000
+```
+
+и открыть http://localhost:8000.
+
+Добавить источник: дописать строку `(название, тема, ссылка на RSS)` в список `FEEDS` в начале `fetch_feeds.py`.

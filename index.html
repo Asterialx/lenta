@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Лента новостей — автообновление</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1a1d21; --muted:#6b7280; --accent:#4f46e5; --line:#e5e7eb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1115; --card:#181b21; --text:#e8eaee; --muted:#9aa1ad; --accent:#818cf8; --line:#2a2f38; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; background:var(--bg); color:var(--text); }
+  header { max-width:1000px; margin:0 auto; padding:28px 16px 8px; }
+  h1 { margin:0 0 4px; font-size:26px; }
+  .sub { color:var(--muted); font-size:14px; }
+  .controls { max-width:1000px; margin:0 auto; padding:12px 16px; display:flex; flex-wrap:wrap; gap:10px; }
+  input, select { font:inherit; padding:9px 12px; border:1px solid var(--line); border-radius:10px; background:var(--card); color:var(--text); }
+  input { flex:1 1 220px; }
+  .chips { max-width:1000px; margin:0 auto; padding:0 16px 8px; display:flex; flex-wrap:wrap; gap:8px; }
+  .chip { border:1px solid var(--line); background:var(--card); color:var(--text); padding:6px 14px; border-radius:999px; cursor:pointer; font:inherit; font-size:14px; }
+  .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  main { max-width:1000px; margin:0 auto; padding:8px 16px 48px; display:grid; gap:14px; grid-template-columns:repeat(auto-fill,minmax(290px,1fr)); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; display:flex; flex-direction:column; }
+  .card img { width:100%; height:150px; object-fit:cover; display:block; }
+  .body { padding:14px 16px 16px; display:flex; flex-direction:column; gap:8px; flex:1; }
+  .meta { display:flex; justify-content:space-between; gap:8px; font-size:12.5px; color:var(--muted); }
+  .tag { color:var(--accent); font-weight:600; }
+  .card a { color:inherit; text-decoration:none; font-weight:600; line-height:1.35; }
+  .card a:hover { color:var(--accent); }
+  .card p { margin:0; color:var(--muted); font-size:14px; }
+  .empty { grid-column:1/-1; text-align:center; color:var(--muted); padding:40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Лента новостей</h1>
+  <div class="sub" id="status">Загрузка…</div>
+</header>
+<div class="controls">
+  <input id="q" type="search" placeholder="Поиск по заголовкам и описанию">
+  <select id="source"><option value="">Все источники</option></select>
+  <select id="sort">
+    <option value="new">Сначала новые</option>
+    <option value="old">Сначала старые</option>
+    <option value="source">По источнику</option>
+  </select>
+  <select id="period">
+    <option value="0">За всё время</option>
+    <option value="1">За сутки</option>
+    <option value="7">За неделю</option>
+  </select>
+</div>
+<div class="chips" id="chips"></div>
+<main id="list"></main>
+
+<script>
+const $ = id => document.getElementById(id);
+const state = { items: [], topic: "" };
+
+const esc = s => s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = iso => new Date(iso).toLocaleString("ru-RU", { day:"numeric", month:"short", hour:"2-digit", minute:"2-digit" });
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const src = $("source").value;
+  const days = Number($("period").value);
+  const since = days ? Date.now() - days * 864e5 : 0;
+  let rows = state.items.filter(i =>
+    (!state.topic || i.topic === state.topic) &&
+    (!src || i.source === src) &&
+    (!since || new Date(i.date) >= since) &&
+    (!q || (i.title + " " + i.summary).toLowerCase().includes(q)));
+  const sort = $("sort").value;
+  rows.sort((a, b) =>
+    sort === "old" ? a.date.localeCompare(b.date) :
+    sort === "source" ? a.source.localeCompare(b.source) || b.date.localeCompare(a.date) :
+    b.date.localeCompare(a.date));
+  $("list").innerHTML = rows.length ? rows.map(i => `
+    <article class="card">
+      ${i.image ? `<img loading="lazy" src="${esc(i.image)}" alt="" onerror="this.remove()">` : ""}
+      <div class="body">
+        <div class="meta"><span class="tag">${esc(i.topic)}</span><span>${esc(i.source)} · ${fmt(i.date)}</span></div>
+        <a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a>
+        ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
+      </div>
+    </article>`).join("") : `<div class="empty">Ничего не найдено</div>`;
+}
+
+function buildFilters() {
+  const topics = [...new Set(state.items.map(i => i.topic))];
+  $("chips").innerHTML = ["", ...topics].map(t =>
+    `<button class="chip${t === state.topic ? " on" : ""}" data-t="${esc(t)}">${t || "Все темы"}</button>`).join("");
+  const sources = [...new Set(state.items.map(i => i.source))];
+  $("source").insertAdjacentHTML("beforeend", sources.map(s => `<option>${esc(s)}</option>`).join(""));
+}
+
+$("chips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  state.topic = b.dataset.t;
+  document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === b));
+  render();
+});
+["q", "source", "sort", "period"].forEach(id => $(id).addEventListener("input", render));
+
+fetch("data/items.json", { cache: "no-cache" })
+  .then(r => r.json())
+  .then(d => {
+    state.items = d.items;
+    $("status").textContent = `Обновляется автоматически · последнее обновление: ${fmt(d.updated)} · материалов: ${d.items.length}`;
+    buildFilters();
+    render();
+  })
+  .catch(() => { $("status").textContent = "Не удалось загрузить данные"; });
+</script>
+</body>
+</html>

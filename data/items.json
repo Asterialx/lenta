@@ -1,725 +1,941 @@
 {
- "updated": "2026-11-18T03:29:44.081070+00:00",
+ "updated": "2026-11-18T12:51:00.914690+00:00",
  "items": [
   {
-   "title": "Стубб прокомментировал информацию о требовании России к Финляндии",
-   "url": "https://lenta.ru/news/2026/11/18/stubb-prokommentiroval-informatsiyu-o-trebovanii-rossii-k-finlyandii/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/06/20261118062232965/pic_2a92b87432c7933f05e2eafe5b09eeb1.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T03:24:00+00:00"
-  },
-  {
-   "title": "Овечкин повторил антирекордную безголевую серию",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/ovechkin-povtoril-antirekordnuyu-bezgolevuyu-seriyu-2476069/",
-   "summary": "Нападающий «Вашингтона» Александр Овечкин не отличился в матче регулярного чемпионата НХЛ с «Тампа-Бэй» (2:5).",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T03:22:00+00:00"
-  },
-  {
-   "title": "Выступление Путина на саммите АТЭС. Прямая трансляция",
-   "url": "https://www.rbc.ru/rbcfreenews/6afca80940d49716fd0a0700",
-   "summary": "Президент России Владимир Путин выступает на заседании Делового саммита Азиатско-Тихоокеанского экономического сотрудничества (АТЭС).",
+   "title": "Путин ответил жестом с большим пальцем вверх на вопрос Трампа о делах",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd9e8211c9c88c59d8dd90",
+   "summary": "Президент России Владимир Путин поднял большой палец в ответ на вопрос президента США Дональда Трампа о том, как у него дела, во время встречи в китайском Шэньчжэне, сообщает МК.",
    "image": "",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-18T03:21:52+00:00"
+   "date": "2026-11-18T12:49:15+00:00"
   },
   {
-   "title": "Молодые родители стали раньше знакомить детей с банковскими картами",
-   "url": "https://www.rbc.ru/rbcfreenews/6afc80371b1c6191e50a36b2",
-   "summary": "Почти каждый второй родитель, чей ребенок пользуется банковской картой и онлайн-банком, предоставил ему доступ к этим инструментам в возрасте 8–10 лет.",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/577949372246755.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-18T03:21:12+00:00"
-  },
-  {
-   "title": "Nvidia обрисовала перспективы Дженсена Хуанга в компании",
-   "url": "https://lenta.ru/news/2026/11/18/nvidia-obrisovala-sudbu-dzhensena-huanga-v-kompanii/",
+   "title": "Россияне устремились отмечать Новый год на Алтае",
+   "url": "https://lenta.ru/news/2026/11/18/rossiyane-ustremilis-otmechat-novyy-god-na-altae/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/06/20261118061911756/pic_0b9f2e784d85c9a74fa33d0a798d52c5.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118154707095/pic_9cf512553d4118c36e7ef3c4c5411475.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T03:19:07+00:00"
+   "date": "2026-11-18T12:48:00+00:00"
   },
   {
-   "title": "Безголевая серия Овечкина достигла 14 матчей",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/bezgolevaya-seriya-ovechkina-dostigla-14-matchey-2476068/",
-   "summary": "Нападающий «Вашингтона» Александр Овечкин не отличился в матче регулярного чемпионата НХЛ с «Тампа-Бэй» (2:5).",
+   "title": "Названо имя актрисы GTA 6, которую связывают с ролью Люсии",
+   "url": "https://www.sport-express.ru/cybersport/videogames/news/nazvano-imya-aktrisy-gta-6-kotoruyu-svyazyvayut-s-rolyu-lyusii-2476281/",
+   "summary": "Американская актриса Манни Л. Перес оказалась в числе номинантов The Game Awards 2026 за работу над Grand Theft Auto VI (GTA 6).",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T03:17:00+00:00"
+   "date": "2026-11-18T12:48:00+00:00"
   },
   {
-   "title": "Релиз AlmaLinux 10.3",
-   "url": "https://habr.com/ru/articles/1108738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108738",
-   "summary": "В середине ноября 2026 года состоялся релиз дистрибутива AlmaLinux 10.3 (Mauve Lion) на базе ядра Linux 6.12, синхронизированного с выпуском Red Hat Enterprise Linux 10.3. Стабильные сборки проекта с улучшением производительности, обновлённ",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-18T03:15:53+00:00"
-  },
-  {
-   "title": "«Вашингтон» проиграл «Тампе», Овечкин не набрал очков",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/tampa-bey-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476065/",
-   "summary": "«Тампа» переиграла «Вашингтон» в матче регулярного чемпионата НХЛ — 5:2.",
+   "title": "Майгуров — о решении CAS: «Раз там так долго думают, надеюсь, примут самое правильное решение»",
+   "url": "https://www.sport-express.ru/biathlon/news/maygurov-o-reshenii-cas-raz-tam-tak-dolgo-dumayut-nadeyus-primut-samoe-pravilnoe-reshenie-2476289/",
+   "summary": "Виктор Майгуров в разговоре с «СЭ» высказался о сроках рассмотрения Спортивным арбитражным судом (CAS) иска организации.",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T03:13:00+00:00"
+   "date": "2026-11-18T12:47:00+00:00"
   },
   {
-   "title": "«Торонто» потерпел поражение от «Чикаго», Бобровский сделал 19 сэйвов",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/chikago-toronto-schet-6-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476066/",
-   "summary": "«Чикаго» переиграл «Торонто» в матче регулярного чемпионата НХЛ — 6:3.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T03:09:00+00:00"
-  },
-  {
-   "title": "На Западе отреагировали на слова Трампа о поражении Украины",
-   "url": "https://lenta.ru/news/2026/11/17/na-zapade-otreagirovali-na-slova-trampa-o-porazhenii-ukrainy/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/18/20261117185955291/pic_6a4821023e55c57ac5796a4f87c524be.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T03:01:05+00:00"
-  },
-  {
-   "title": "Россиян предупредили об отравляющих воздух в квартире гирляндах",
-   "url": "https://lenta.ru/news/2026/11/18/rossiyan-predupredili-ob-otravlyayuschih-vozduh-v-kvartire-girlyandah/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/16/20261117162833318/pic_7e73e2d6c1f42c594c64a011e74331f0.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T03:01:03+00:00"
-  },
-  {
-   "title": "МИД Ирана назвал «чушью» сообщения о подготовке химической атаки в США",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcfb0b45e6cc52146cbd7c",
-   "summary": "Иран не планирует применять химическое оружие в Вашингтоне.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-18T02:58:35+00:00"
-  },
-  {
-   "title": "Байден вспомнил беседу с Путиным незадолго до начала конфликта на Украине",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afd126f49b3d78d99d0504f",
-   "summary": "Бывший президент США Джо Байден рассказал о напряженном телефонном разговоре с президентом России Владимиром Путиным, который состоялся 7 декабря 2021 года, за два месяца до начала конфликта на Украине.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-18T02:51:37+00:00"
-  },
-  {
-   "title": "«Айлендерс» обыграли «Коламбус», Сорокин сделал 28 сэйвов",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/aylenders-kolambus-schet-5-1-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476061/",
-   "summary": "«Айлендерс» выиграли у «Коламбуса» в матче регулярного чемпионата НХЛ — 5:1.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T02:49:00+00:00"
-  },
-  {
-   "title": "«Лос-Анджелес» без Панарина обыграл «Бостон»",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/boston-los-andzheles-schet-0-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476060/",
-   "summary": "«Лос-Анджелес» выиграл у «Бостона» в матче регулярного чемпионата НХЛ — 3:0.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T02:44:00+00:00"
-  },
-  {
-   "title": "«Виннипег» проиграл «Оттаве»",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/vinnipeg-ottava-schet-1-2-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476059/",
-   "summary": "«Виннипег» потерпел поражение от «Оттавы» в матче регулярного чемпионата НХЛ — 1:2.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T02:40:00+00:00"
-  },
-  {
-   "title": "Врач предупредила о неочевидном вреде энергетиков",
-   "url": "https://lenta.ru/news/2026/11/18/vrach-predupredila-o-neochevidnom-vrede-energetikov/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118053912780/pic_6c0e441570f847606820a64e5903ffc0.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:39:14+00:00"
-  },
-  {
-   "title": "«Филадельфия» обыграла «Баффало», Мичков сделал две голевые передачи",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/",
-   "summary": "«Филадельфия» переиграла «Баффало» в матче регулярного чемпионата НХЛ — 4:3.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T02:38:00+00:00"
-  },
-  {
-   "title": "«Эдмонтон» победил «Флориду», Подколзин набрал 3 очка",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/florida-edmonton-schet-2-5-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476057/",
-   "summary": "«Эдмонтон» выиграл у «Флориды» в матче регулярного чемпионата НХЛ — 5:2.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T02:36:00+00:00"
-  },
-  {
-   "title": "Выпуск видеоредактора с открытым исходным кодом Shotcut 26.11",
-   "url": "https://habr.com/ru/articles/1108664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108664",
-   "summary": "В середине ноября 2026 года состоялся релиз мультиплатформенного видеоредактора с открытым исходным кодом Shotcut 26.11, созданного на основе MLT Multimedia Framework. Исходный код проекта написан на C++ и QML (интерфейс на виджетах, а не н",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-18T02:33:11+00:00"
-  },
-  {
-   "title": "Евродепутат раскрыл отношение в ЕС к переговорам с Россией",
-   "url": "https://lenta.ru/news/2026/11/18/evrodeputat-raskryl-otnoshenie-v-es-k-peregovoram-s-rossiey/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118052820165/pic_9ba7c963fabd6c5372b6395407900a77.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:31:49+00:00"
-  },
-  {
-   "title": "Французский автогигант собрался расширить штат рабочих и сократить офисных сотрудников",
-   "url": "https://lenta.ru/news/2026/11/18/frantsuzskiy-avtogigant-sobralsya-rasshirit-shtat-rabochih-i-sokratit-ofisnyh-sotrudnikov/",
+   "title": "В НАТО высказались о конфликте с Россией в ближайшее время",
+   "url": "https://lenta.ru/news/2026/11/18/v-nato-vyskazalis-o-konflikte-s-rossiey-v-blizhayshee-vremya/",
    "summary": "",
    "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:31:49+00:00"
+   "date": "2026-11-18T12:46:54+00:00"
   },
   {
-   "title": "Запас ракет «Фламинго» у Украины оценили",
-   "url": "https://lenta.ru/news/2026/11/18/zapas-raket-flamingo-u-ukrainy-otsenili/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/15/20261117150354682/pic_4e4cbd1bda4ad34b82cf9f703d40b5d6.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:31:38+00:00"
-  },
-  {
-   "title": "Россиянин зашел в супермаркет страны бывшего СССР и почувствовал себя нищим",
-   "url": "https://lenta.ru/news/2026/11/18/rossiyanin-zashel-v-supermarket-strany-byvshego-sssr-i-pochuvstvoval-sebya-nischim/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/15/20261117154009814/pic_55f79766f9beb5b2c9d197dce94168f6.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:31:16+00:00"
-  },
-  {
-   "title": "Политолог из США рассказал о необычной паранойе в американском обществе",
-   "url": "https://lenta.ru/news/2026/11/18/spy1/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/13/20261117134330979/pic_e075ba6c6fa6a47fd2eb6064a27daeb1.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:31:11+00:00"
-  },
-  {
-   "title": "Перечислены собирающие БПЛА для ВСУ страны",
-   "url": "https://lenta.ru/news/2026/11/18/kiselev/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118053041343/pic_77a6d046af5a1477561851592d5b9c50.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:28:55+00:00"
-  },
-  {
-   "title": "Назван главный получатель дохода от тайных тюрем на Украине",
-   "url": "https://lenta.ru/news/2026/11/18/raskryt-glavnyy-poluchatel-dohoda-ot-taynyh-tyurem-na-ukraine/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118052246827/pic_79a64a37b7dc4ce358aff378b6fa3de4.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:24:00+00:00"
-  },
-  {
-   "title": "Бастрыкин поручил доложить о смерти женщины, оставшейся без зарплаты",
-   "url": "https://www.rbc.ru/rbcfreenews/6afced8073965399a73b1119",
-   "summary": "Председатель Следственного комитета России поручил доложить о ходе проверки сообщений о нарушении прав жительницы Волгограда, которая, согласно публикациям, несколько месяцев не получала зарплату.",
-   "image": "",
+   "title": "«СЭ» узнал, что Россию не допустили до жеребьевки отбора к Евро-2028",
+   "url": "https://www.rbc.ru/sport/18/11/2026/6afd9997c68e49d8434471d3",
+   "summary": "Жеребьевка группового этапа отборочного турнира состоится 6 декабря в Белфасте. Это будет четвертый крупный турнир подряд, в котором сборная России по футболу не сыграет",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/96/947950048653960.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-18T02:15:22+00:00"
+   "date": "2026-11-18T12:45:34+00:00"
   },
   {
-   "title": "В России описали предпочтительного кандидата на пост генсека ООН",
-   "url": "https://lenta.ru/news/2026/11/18/v-rossii-opisali-predpochtitelnogo-kandidata-na-post-genseka-oon/",
+   "title": "GTA VI получила рекордную оценку критиков на Metacritic",
+   "url": "https://lenta.ru/news/2026/11/18/gta-metacritic/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118051359802/pic_5eecd97b5a2221672c8e229328b948b4.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118153511438/pic_a6f7d133e1b43039a3d681a4a2b786d5.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:14:00+00:00"
+   "date": "2026-11-18T12:44:17+00:00"
   },
   {
-   "title": "Опросы россиян о планах на детей будут проводить чаще",
-   "url": "https://lenta.ru/news/2026/11/18/oprosy-rossiyan-o-planah-na-detey-budut-provodit-chasche/",
+   "title": "В России впервые провели операцию на мозге еще не родившегося ребенка",
+   "url": "https://lenta.ru/news/2026/11/18/v-rossii-vpervye-proveli-operatsiyu-na-mozge-esche-ne-rodivshegosya-rebenka/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118050405459/pic_5f61dad402d913e3d183df5f66622d5a.jpg",
+   "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:14:00+00:00"
+   "date": "2026-11-18T12:43:37+00:00"
   },
   {
-   "title": "Уилсон: «Пересмотрели голы Португалии и остались разочарованы»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/harri-uilson-kommentariy-po-porazheniyu-uelsa-ot-portugalii-v-lige-naciy-2476056/",
-   "summary": "Нападающий сборной Уэльса Харри Уилсон прокомментировал поражение от Португалии (2:3) в матче Лиги наций УЕФА.",
+   "title": "Россиян предупредили о десятикратном подорожании сертификации автомобилей",
+   "url": "https://lenta.ru/news/2026/11/18/rossiyan-predupredili-o-desyatikratnom-podorozhanii-sertifikatsii-avtomobiley/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118154706418/pic_80dc7cc1a740b435380b198d9db8f0b9.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:43:25+00:00"
+  },
+  {
+   "title": "Галицкий посетил раздевалку сборной России после победы над Венесуэлой",
+   "url": "https://www.sport-express.ru/football/rusteam/news/galickiy-posetil-razdevalku-sbornoy-rossii-posle-pobedy-nad-venesueloy-2476283/",
+   "summary": "Президент «Краснодара» Сергей Галицкий посетил раздевалку сборной России после победы над Венесуэлой.",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T02:09:00+00:00"
+   "date": "2026-11-18T12:43:00+00:00"
   },
   {
-   "title": "Вышло обновление RapidRAW 1.7.0 — открытого редактора изображений RAW",
-   "url": "https://habr.com/ru/articles/1108660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108660",
-   "summary": "Состоялся выпуск обновления открытого мультиплатформенного редактора изображений RapidRAW 1.7.0. Проект предлагает простой способ обработки изображений RAW с помощью GPU. Решение использует лёгкую (~30 МБ) и эффективную кодовую базу, создан",
+   "title": "Сборная России по футболу не сыграет на ЧЕ-2028",
+   "url": "https://lenta.ru/news/2026/11/18/sbornaya-rossii-po-futbolu-ne-sygraet-na-che-2028/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118153006066/pic_9645112b9441580ab79f711cd585afcb.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:41:44+00:00"
+  },
+  {
+   "title": "У выплачивающего россиянам компенсации сербского банка возникли проблемы",
+   "url": "https://lenta.ru/news/2026/11/18/u-vyplachivayuschego-rossiyskim-klientam-lopnuvshego-alta-banka-banka-v-serbii-voznikli-problemy/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118150843176/pic_25e79b1303251d19aa896611bb485442.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:41:18+00:00"
+  },
+  {
+   "title": "Особенность внешности сыгравших Джеймса Бонда актеров смутила пользователей сети",
+   "url": "https://lenta.ru/news/2026/11/18/osobennost-vneshnosti-sygravshih-dzheymsa-bonda-akterov-smutila-polzovateley-seti/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/17/17/20261117175936176/pic_a5c72041154faedc113fb5737c0f4c11.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:40:26+00:00"
+  },
+  {
+   "title": "Форвард «Адмирала» Чезганов — об обмене на Гутика: «Мы доказываем, что это не провальный вариант»",
+   "url": "https://www.sport-express.ru/hockey/khl/news/forvard-admirala-chezganov-ob-obmene-na-gutika-my-dokazyvaem-chto-eto-ne-provalnyy-variant-2476269/",
+   "summary": "Егор Чезганов ответил на вопрос о своем отношении к обмену из «Спартака» во Владивосток.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:40:00+00:00"
+  },
+  {
+   "title": "Какой язык быстрее? Сравнил 8 языков на одной задаче: Python догнал Rust, а Go проиграл даже Java",
+   "url": "https://habr.com/ru/articles/1109410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109410",
+   "summary": "Неделю назад я рассказывал на Хабре про z3l.FastHtmlParser — HTML-парсер для .NET, который вместо DOM строит плоский список тегов и разбирает страницу в 10–30 раз быстрее HtmlAgilityPack и AngleSharp. Тогда у него не было ни CSS-селекторов,",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-18T02:07:05+00:00"
+   "date": "2026-11-18T12:39:14+00:00"
   },
   {
-   "title": "В Британии приготовили беспрецедентные меры для полиции перед Евро-2028",
-   "url": "https://lenta.ru/news/2026/11/18/v-britanii-prigotovili-bespretsedentnye-mery-dlya-politsii-pered-evro-2028/",
+   "title": "Названа страна Евросоюза с самой высокой инфляцией",
+   "url": "https://lenta.ru/news/2026/11/18/nazvana-strana-evrosoyuza-s-samoy-vysokoy-inflyatsiey/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118050616751/pic_f16b9e1ff6402bcb911f6a42771fd95f.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118152839215/pic_19e96fee2d98f46dc8e226f4ac1db981.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:06:37+00:00"
+   "date": "2026-11-18T12:38:02+00:00"
   },
   {
-   "title": "В российском городе сообщили об атаке БПЛА",
-   "url": "https://lenta.ru/news/2026/11/18/v-rossiyskom-gorode-soobschili-ob-atake-bpla/",
+   "title": "Лерчек улетела в Китай",
+   "url": "https://lenta.ru/news/2026/11/18/lerchek-uletela-v-kitay/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/05/20261118050409760/pic_fb7c0a6b3323e52d20c149dbb00ec3a3.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118153905969/pic_1f948bb3a5b94090ef5fcd1b49c5c870.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:03:51+00:00"
+   "date": "2026-11-18T12:38:00+00:00"
   },
   {
-   "title": "Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей",
-   "url": "https://habr.com/ru/articles/1109094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109094",
-   "summary": "supertick 2.0: как я перенёс команду агентов из Claude Code в Kimi, Codex и OpenCodeВ первой части я рассказывал про supertick, командный плагин для Claude Code. Ведущий там тонкий и почти всё время спит, его будит внешний «тик», скрипт без",
+   "title": "Водителям напомнили правила езды по заснеженным дорогам",
+   "url": "https://lenta.ru/news/2026/11/18/voditelyam-napomnili-pravila-ezdy-po-zasnezhennym-dorogam/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118153037685/pic_4cef990eb9aa792fd46ae5f186bdd337.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:37:10+00:00"
+  },
+  {
+   "title": "Obsidian для руководителя: цели направлений, проекты и поручения со встреч в одном хранилище",
+   "url": "https://habr.com/ru/articles/1109412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109412",
+   "summary": "На планёрке выясняется, что запуск задерживается. Руководитель внедрения обещал передать систему в поддержку, поддержка ждёт инструкцию, а сотрудник, который её пишет, рассчитывал закончить после запуска. В списке задач есть «дописать инстр",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-18T02:02:44+00:00"
+   "date": "2026-11-18T12:35:50+00:00"
   },
   {
-   "title": "В США поделились ожиданиями от встречи Путина с Трампом",
-   "url": "https://lenta.ru/news/2026/11/17/v-ssha-podelilis-ozhidaniyami-ot-vstrechi-putina-s-trampom/",
+   "title": "Ортодонты предупредили об опасности самостоятельного изменения формы челюсти",
+   "url": "https://lenta.ru/news/2026/11/18/ortodonty-predupredili-ob-opasnosti-samostoyatelnogo-izmeneniya-formy-chelyusti/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/18/20261117184737254/pic_db06758257a58a97e57a6ffcff57cbb5.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/11/15/20261111150643735/pic_998113d12b84baed0cbddfd83588d4e2.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T02:00:59+00:00"
+   "date": "2026-11-18T12:33:10+00:00"
   },
   {
-   "title": "Законность хранения колясок и велосипедов у квартир разъяснили",
-   "url": "https://lenta.ru/news/2026/11/18/zakonnost-hraneniya-kolyasok-i-velosipedov-u-kvartir-raz-yasnili/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/14/20261117143726151/pic_2a9e081ef29e89ab26e92ce3abc2f38a.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:00:52+00:00"
-  },
-  {
-   "title": "Мужчинам назвали причины внезапного уменьшения половых органов",
-   "url": "https://lenta.ru/news/2026/11/18/muzhchinam-nazvali-prichiny-vnezapnogo-umensheniya-polovyh-organov/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/12/20261117124214361/pic_d70a15ff8595556d129f44257e11c102.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T02:00:41+00:00"
-  },
-  {
-   "title": "Марочко рассказал о «серьезных успехах» ВС России",
-   "url": "https://lenta.ru/news/2026/11/18/marochko-rasskazal-o-serieznyh-uspehah-vs-rossii/",
-   "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/04/20261118044937296/pic_a84479f488ecbe7380040b1235472daf.jpg",
-   "source": "Lenta.ru",
-   "topic": "Общество",
-   "date": "2026-11-18T01:54:36+00:00"
-  },
-  {
-   "title": "Болельщики «Тампы» поприветствовали Овечкина на «Амали-арене»",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/bolelschiki-tampy-poprivetstvovali-ovechkina-na-amali-arene-2476055/",
-   "summary": "«Тампа» устроила торжественную церемонию для нападающего «Вашингтона» Александра Овечкина.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T01:54:00+00:00"
-  },
-  {
-   "title": "Шабанов забросил 9-ю шайбу в сезоне НХЛ",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/minnesota-neshvill-maksim-shabanov-zabrosil-9-yu-shaybu-v-sezone-nhl-2476053/",
-   "summary": "«Миннесота» увеличила преимущество в матче регулярного чемпионата НХЛ против «Нэшвилла».",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T01:42:00+00:00"
-  },
-  {
-   "title": "Рубио заявил, что Трамп серьезно настроен на встречу с Ким Чен Ыном в КНР",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afd0239c1dcac8fc6128115",
-   "summary": "Встреча Дональда Трампа с Ким Чен Ыном во время визита американского президента в Китай пока не запланирована. Однако Трамп готов к переговорам с лидером КНДР, заявил госсекретарь США. Всего лидеры встречались три раза",
-   "image": "",
+   "title": "Почти 100 домов в Северском районе Кубани остались без газа после атаки",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd94c54af2dff78fc0ccfa",
+   "summary": "Из-за повреждения газопровода при падении обломков БПЛА в 94 многоквартирных домах в Северском районе Краснодарского края пропал газ, сообщил региональный оперативный штаб.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/90/237950044322900.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-18T01:41:28+00:00"
+   "date": "2026-11-18T12:31:10+00:00"
   },
   {
-   "title": "«Процесс» Франц Кафка",
-   "url": "https://habr.com/ru/articles/1109150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109150",
-   "summary": "Этот шедевр попал в мой список из уже упомянутого «Русского культурного кода». Кто-то решил, что без Кафки русским (в культурном плане) не бывать 😊. Тут я бы поспорил, конечно. Не насчёт актуальности для нас Кафки и, в частности, «Процесса»",
+   "title": "Москвичам назвали время окончания снегопада",
+   "url": "https://lenta.ru/news/2026/11/18/moskvicham-nazvali-vremya-okonchaniya-snegopada/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118151508674/pic_7e241e37bb2743482d334e4afea53057.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:30:57+00:00"
+  },
+  {
+   "title": "Интерактивная среда для программирования с нейросетями SolveIt перешла в открытый доступ",
+   "url": "https://habr.com/ru/companies/selectel/articles/1109222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109222",
+   "summary": "Команда исследовательской организации Answer.AI представила в открытом доступе платформу SolveIt. Инструмент создавали в первую очередь для внутренних исследовательских задач и работы с кодом. Наконец его перевели в стадию публичного доступ",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-18T01:36:16+00:00"
+   "date": "2026-11-18T12:30:54+00:00"
   },
   {
-   "title": "В Эстонии выступили с неожиданной позицией по России",
-   "url": "https://lenta.ru/news/2026/11/18/v-estonii-vystupili-s-neozhidannoy-pozitsiey-po-rossii/",
+   "title": "«Калашников» отгрузит бронебойные СП10",
+   "url": "https://lenta.ru/news/2026/11/18/kalashnikov-otgruzit-broneboynye-sp10/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/04/20261118043401690/pic_57a35ae7a9f0f51bc301686524790f7c.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/13/20261118130944222/pic_862da6161895d1d4179c7db4ba9660d3.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T01:34:56+00:00"
+   "date": "2026-11-18T12:30:38+00:00"
   },
   {
-   "title": "Уругвай разгромил Доминикану, Эквадор выиграл у Боливии",
-   "url": "https://www.sport-express.ru/football/friendly/news/urugvay-dominikana-schet-5-0-rezultat-tovarischeskogo-matcha-18-noyabrya-2026-goda-2476064/",
-   "summary": "Сборная Уругвая разгромила сборную Доминиканской Республики в товарищеском матче — 5:0.",
+   "title": "Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов",
+   "url": "https://habr.com/ru/companies/ozontech/articles/1108928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108928",
+   "summary": "Фича уже готова, но на стенде видим только happy path. Разработчику нужно посмотреть, как ведёт себя доработка на разных данных, дизайнеру — сравнить её с макетом, аналитику — проверить сценарий, QA — выполнить тестирование. А начинается вс",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:30:18+00:00"
+  },
+  {
+   "title": "Metacritic удалил поддельные отзывы на GTA 6 еще до выхода игры",
+   "url": "https://www.sport-express.ru/cybersport/videogames/news/metacritic-udalil-poddelnye-otzyvy-na-gta-6-esche-do-vyhoda-igry-2476280/",
+   "summary": "Агрегатор рецензий Metacritic удалил пользовательские оценки Grand Theft Auto VI (GTA 6), которые появились до официального релиза новой игры Rockstar Games.",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T01:33:00+00:00"
+   "date": "2026-11-18T12:30:03+00:00"
   },
   {
-   "title": "Подколзин за 6 минут оформил дубль в матче с «Флоридой»",
-   "url": "https://www.sport-express.ru/hockey/nhl/news/florida-edmonton-vasiliy-podkolzin-oformil-dubl-v-matche-nhl-2476052/",
-   "summary": "«Эдмонтон» увеличил преимущество в матче регулярного чемпионата НХЛ против «Флориды».",
+   "title": "НХЛ, расписание и результаты 19 ноября: «Нью-Джерси» — «Монреаль», «Юта» — «Колорадо». Все матчи",
+   "url": "https://www.sport-express.ru/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-19-noyabrya-2026-detroyt-boston-nyu-dzhersi-monreal-yuta-kolorado-2476277/",
+   "summary": "Матчи регулярного чемпионата НХЛ.",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T01:18:00+00:00"
+   "date": "2026-11-18T12:30:02+00:00"
   },
   {
-   "title": "Россияне смогут увидеть до 30 падающих звезд в час",
-   "url": "https://lenta.ru/news/2026/11/18/rossiyane-smogut-uvidet-do-30-padayuschih-zvezd-v-chas/",
+   "title": "Эксперт объяснила, почему россияне переходят на функциональные тренировки",
+   "url": "https://www.sport-express.ru/trops/training/news/ekspert-obyasnila-pochemu-rossiyane-perehodyat-na-funkcionalnye-trenirovki-2476153/",
+   "summary": "Эксперт фитнес-индустрии рассказала, почему посетителям важнее не только внешний вид, но и повседневная подвижность.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:30:01+00:00"
+  },
+  {
+   "title": "Карлос Алькарас — Даниил Медведев: прямая трансляция матча Итогового турнира ATP",
+   "url": "https://www.sport-express.ru/tennis/atp/news/alkaras-medvedev-18-noyabrya-2026-pryamaya-translyaciya-matcha-itogovogo-turnira-atp-smotret-onlayn-2476136/",
+   "summary": "18 ноября Карлос Алькарас и Даниил Медведев проведут матч Итогового турнира ATP в Турине.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:30:00+00:00"
+  },
+  {
+   "title": "Nvidia после ухода Хуанга остановила поставки передовых чипов в Китай",
+   "url": "https://lenta.ru/news/2026/11/18/stop/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/15/20261117152029141/pic_e8e52f4c4d9ca877e5e38c5b8946a429.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118151524808/pic_4009be912b81cb2d0f5101335768da88.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T01:15:57+00:00"
+   "date": "2026-11-18T12:29:35+00:00"
   },
   {
-   "title": "Положение в Киеве описали как «настоящий ад». Россия нанесла мощные удары по автомобильным мостам через Днепр",
-   "url": "https://lenta.ru/news/2026/11/18/long-wanner/",
+   "title": "Ваш BLE-скан на Android тихо умирает через 5 минут. И вы об этом не знаете",
+   "url": "https://habr.com/ru/articles/1109408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109408",
+   "summary": "Я работаю в команде, и мы занимаемся системами позиционирования людей, транспорта и оборудования внутри помещений и на ограниченных территориях — в промышленности, логистике и ритейле.Вкратце о том, как это работает:Позиционирование осущест",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:28:57+00:00"
+  },
+  {
+   "title": "Стало известно о возможных использованных семьей Усольцевых маршрутах",
+   "url": "https://lenta.ru/news/2026/11/18/stalo-izvestno-o-vozmozhnyh-ispolzovannyh-semiey-usoltsevyh-marshrutah/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/18/04/20261118041014307/pic_abc98d0aab15bc091349e6d1905ed8cf.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/14/20261118145957829/pic_60b49802567bfc0b547a65ca26ea3ed8.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T01:12:00+00:00"
+   "date": "2026-11-18T12:28:45+00:00"
   },
   {
-   "title": "Парень снял подвал соседа на видео и получил совет вызвать полицию",
-   "url": "https://lenta.ru/news/2026/11/18/paren-snyal-podval-soseda-na-video-i-poluchil-sovet-vyzvat-politsiyu/",
+   "title": "Метод Фейнмана и ИИ: как разобраться в любой теме с нуля, используя искусственный интеллект",
+   "url": "https://habr.com/ru/companies/speshu_ai/articles/1109406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109406",
+   "summary": "Можно прочитать десять статей о квантовой физике, посмотреть несколько лекций и всё равно не объяснить, что такое суперпозиция. Проблема в том, что знакомство с информацией не равно пониманию. Когда вы читаете готовое объяснение, кажется, ч",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:28:06+00:00"
+  },
+  {
+   "title": "Психолог попросил родителей не заставлять ребенка заводить друзей",
+   "url": "https://lenta.ru/news/2026/11/18/druzey/",
    "summary": "",
-   "image": "https://icdn.lenta.ru/images/2026/11/17/20/20261117201715090/pic_bdf69cdad9618f0b3ef13d83f971e831.jpg",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118151707480/pic_d9985f11f12d6fbdf146721f40679a3d.jpg",
    "source": "Lenta.ru",
    "topic": "Общество",
-   "date": "2026-11-18T01:10:25+00:00"
+   "date": "2026-11-18T12:28:00+00:00"
   },
   {
-   "title": "Чили и Колумбия сыграли вничью, Суарес не реализовал пенальти",
-   "url": "https://www.sport-express.ru/football/friendly/news/chili-kolumbiya-schet-0-0-rezultat-tovarischeskogo-matcha-18-noyabrya-2026-goda-2476063/",
-   "summary": "Сборные Чили и Колумбии не выявили победителя в товарищеском матче — 0:0.",
+   "title": "Антонелли получит штраф в пять позиций на Гран-при Лас-Вегаса из-за замены двигателя",
+   "url": "https://www.sport-express.ru/autosport/formula1/news/antonelli-poluchit-shtraf-v-pyat-poziciy-na-gran-pri-las-vegasa-iz-za-zameny-dvigatelya-2476278/",
+   "summary": "Андреа Кими Антонелли потеряет пять позиций на стартовой решетке Гран-при Лас-Вегаса из-за замены двигателя внутреннего сгорания.",
    "image": "",
    "source": "Спорт-Экспресс",
    "topic": "Спорт",
-   "date": "2026-11-18T01:05:00+00:00"
+   "date": "2026-11-18T12:28:00+00:00"
   },
   {
-   "title": "Во Франции полицейские массово ушли на больничный в день протестов",
-   "url": "https://www.rbc.ru/rbcfreenews/6afce7ceb9190b709c033d08",
-   "summary": "Подразделение французской полиции CRS 8, занимающееся охраной общественного порядка, в полном составе ушло на больничный в день общенациональных протестов.",
-   "image": "",
+   "title": "К платформе «МосМедИИ» подключились 77 регионов России",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd9759fa3f216c7b67ed26",
+   "summary": "Адыгея и Карачаево-Черкесия присоединились к московской платформе «МосМедИИ».",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/207950042770217.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-18T01:01:45+00:00"
+   "date": "2026-11-18T12:27:41+00:00"
   },
   {
-   "title": "Аргентина разгромила Коста-Рику, Пас и Альварес оформили дубли",
-   "url": "https://www.sport-express.ru/football/friendly/news/argentina-kosta-rika-schet-7-0-rezultat-tovarischeskogo-matcha-18-noyabrya-2026-goda-2476062/",
-   "summary": "Сборная Аргентины выиграла у сборной Коста-Рики в товарищеском матче — 7:0.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T01:01:00+00:00"
-  },
-  {
-   "title": "Беллами назвал причины поражения Уэльса от Португалии",
-   "url": "https://www.sport-express.ru/football/nation-league/news/bellami-nazval-prichiny-porazheniya-uelsa-ot-portugalii-2476054/",
-   "summary": "Главный тренер сборной Уэльса Крейг Беллами прокомментировал поражение от Португалии (2:3) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T00:57:00+00:00"
-  },
-  {
-   "title": "Ример: «Дания не смогла реализовать план на игру с Норвегией»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/brian-rimer-kommentariy-po-porazheniyu-danii-ot-norvegii-v-lige-naciy-uefa-2476051/",
-   "summary": "Главный тренер сборной Дании Бриан Ример прокомментировал поражение от Норвегии (2:3) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T00:44:00+00:00"
-  },
-  {
-   "title": "Хермансен: «Это одно из тех поражений, которые особенно тяжело переживать»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/mads-hermansen-kommentariy-po-porazheniyu-danii-ot-norvegii-v-matche-ligi-naciy-uefa-2476049/",
-   "summary": "Вратарь сборной Дании Мадс Хермансен прокомментировал поражение от Норвегии (2:3) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T00:35:00+00:00"
-  },
-  {
-   "title": "Автора «Кодекса патриота России» обвинили в вымогательстве",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afcc32619912f9f39088cb7",
-   "summary": "Автору «Кодекса патриота России», члену Российского союза писателей Илье Игину заочно предъявлено обвинение в вымогательстве, совершенном организованной группой (п.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-18T00:31:28+00:00"
-  },
-  {
-   "title": "Витинья: «Сборная Португалии должна быть готова обыграть в четвертьфинале Лиги наций любого»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/vitinya-kommentariy-po-sopernikam-dlya-portugalii-v-lige-naciy-uefa-2476046/",
-   "summary": "Полузащитник сборной Португалии Витинья после победы над Уэльсом (3:2) в матче Лиги наций УЕФА отметил, что португальцы должны быть готовы обыграть любого в 1/4 финала.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T00:20:00+00:00"
-  },
-  {
-   "title": "Предпродажи GTA VI превысили $1,5 млрд за два дня до релиза",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcdb5488182c95b2bf9ea7",
-   "summary": "Предварительные продажи Grand Theft Auto VI принесли около $1,54 млрд дохода за два дня до официального релиза игры.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-18T00:08:36+00:00"
-  },
-  {
-   "title": "Хейбьерг — о поражении от Норвегии: «Получили то, что заслужили»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/per-emil-heyberg-kommentariy-po-porazheniyu-danii-ot-norvegii-v-lige-naciy-uefa-2476050/",
-   "summary": "Капитан сборной Дании Пьер-Эмиль Хейбьерг прокомментировал поражение от Норвегии (2:3) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-18T00:01:00+00:00"
-  },
-  {
-   "title": "Витинья: «Нам было важно дать достойный ответ на поражение от Дании»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/vitinya-kommentariy-po-pobede-portugalii-nad-uelsom-v-lige-naciy-uefa-2476047/",
-   "summary": "Полузащитник сборной Португалии Витинья прокомментировал победу над Уэльсом (3:2) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-17T23:56:00+00:00"
-  },
-  {
-   "title": "В США объяснили удары по Ирану просроченными ракетами на примере с хлебом",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afce7fb73965399a73b1117",
-   "summary": "ВМС США применяли в войне с Ираном просроченные боеприпасы, предварительно изменив их коды состояния. Исполняющий обязанности министра ВМС сравнил эту практику с восстановлением черствого хлеба с помощью воды и микроволновки",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T23:49:56+00:00"
-  },
-  {
-   "title": "Андерсен: «Дания повела в счете, забив два хороших гола, но мы позволили сопернику вернуться в игру»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/yoakim-andersen-kommentariy-po-porazheniyu-danii-ot-norvegii-v-lige-naciy-uefa-2476045/",
-   "summary": "Защитник сборной Дании Йоаким Андерсен прокомментировал поражение от Норвегии (2:3) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-17T23:45:00+00:00"
-  },
-  {
-   "title": "Холанн: «Это один из самых невероятных годов в футболе»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/erlin-holann-kommentariy-po-pobede-norvegii-nad-daniey-v-lige-naciy-2476044/",
-   "summary": "Нападающий сборной Норвегии Эрлин Холанн прокомментировал победу над Данией (3:2) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-17T23:34:00+00:00"
-  },
-  {
-   "title": "Дуров объяснил правила оплаты цифровых услуг в Telegram",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcc7bd92045804ddcdb204",
-   "summary": "Боты и мини-приложения мессенджера могут принимать оплату за цифровые товары и услуги только в Telegram Stars.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T23:29:12+00:00"
-  },
-  {
-   "title": "Нуса: «Выиграть благодаря пенальти на последней минуте — просто невероятно»",
-   "url": "https://www.sport-express.ru/football/nation-league/news/antonio-nusa-kommentariy-po-pobede-norvegii-nad-daniey-v-lige-naciy-uefa-2476043/",
-   "summary": "Полузащитник сборной Норвегии Антонио Нуса прокомментировал победу над Данией (3:2) в матче Лиги наций УЕФА.",
-   "image": "",
-   "source": "Спорт-Экспресс",
-   "topic": "Спорт",
-   "date": "2026-11-17T23:23:00+00:00"
-  },
-  {
-   "title": "Совет директоров Nvidia отказался возвращать Хуанга на пост гендиректора",
-   "url": "https://www.rbc.ru/business/18/11/2026/6afcdc2fbe9e6bc61a8a6246",
-   "summary": "Совет директоров Nvidia не намерен возвращать Дженсена Хуанга на пост гендиректора. Председатель совета выразил доверие временной главе компании Колетт Кресс и отказался комментировать обстоятельства ухода Хуанга",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T22:59:31+00:00"
-  },
-  {
-   "title": "Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?",
-   "url": "https://habr.com/ru/articles/1109138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109138",
-   "summary": "Иногда я открываю диалог с искусственным интеллектом, формулирую вопрос и вдруг понимаю, что уже знаю ответ. Но всё равно нажимаю Enter. Зачем? Мне не хватает знаний, уверенности в собственных мыслях или я просто привык, что рядом всегда ес",
+   "title": "Как управлять сложными 2D-анимациями в браузере: состояния, таймлайны и кадры",
+   "url": "https://habr.com/ru/companies/runity/articles/1109404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109404",
+   "summary": "Представим интерактивную схему устройства на сайте. При прокрутке страницы корпус раскладывается на слои, появляются подписи, а индикатор показывает текущий этап. Пользователь нажимает на одну из деталей — прокрутка временно перестает управ",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T22:57:33+00:00"
+   "date": "2026-11-18T12:26:56+00:00"
   },
   {
-   "title": "Astra 6.2, Qwen 4, Fable 5.2 и Opus 5.5: нейросети снова соревнуются, а теперь ещё и судят друг друга",
-   "url": "https://habr.com/ru/articles/1109134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109134",
-   "summary": "Моё субъективное сравнение топовых нейронок продолжается. В сентябре я выложил на Хабр «Турнир семи нейросетей»: 7 моделей, 8 заданий и три редакции статьи за неделю. Скажу честно: вышло неудачно. Но останавливаться не собираюсь: после ваши",
+   "title": "Пьяный турист чудом выжил после падения с седьмого этажа отеля Таиланда",
+   "url": "https://lenta.ru/news/2026/11/18/pyanyy-turist-chudom-vyzhil-posle-padeniya-s-sedmogo-etazha-otelya-tailanda/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/12/20261118123520753/pic_dba20c04a23f500a9a64dca8ba64ae23.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:26:54+00:00"
+  },
+  {
+   "title": "Aureon: как я без опыта в программировании за 80 дней собрал кроссплатформенный медиаплеер с помощью ИИ",
+   "url": "https://habr.com/ru/articles/1109402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109402",
+   "summary": "Я начал делать локальный плеер для своей музыкальной библиотеки, почти не имея опыта программирования. За 80 дней и более чем 400 сборок он превратился в Aureon — медиаплеер для Windows, Linux и macOS с музыкально-реактивными сценами. Расск",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T22:51:01+00:00"
+   "date": "2026-11-18T12:26:09+00:00"
   },
   {
-   "title": "Армия США испытала рой ударных дронов с наземной установки. Видео",
-   "url": "https://www.rbc.ru/rbcfreenews/6afccdb4b904d649ef22d183",
-   "summary": "Американские военные провели испытания беспилотных летательных и наземных аппаратов на полигоне Графенвер в Германии.",
-   "image": "",
+   "title": "Назван предполагаемый заказчик налета дронов на Молдавию и Прибалтику",
+   "url": "https://lenta.ru/news/2026/11/18/nazvan-predpolagaemyy-zakazchik-naleta-dronov-na-moldaviyu-i-pribaltiku/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118152643698/pic_21281894fd3aedcb453d5b523a34eb20.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:25:41+00:00"
+  },
+  {
+   "title": "Самолет из Минеральных Вод сел в Анталье после сообщения об угрозе взрыва",
+   "url": "https://www.rbc.ru/society/18/11/2026/6afd991ac68e49d8434471d0",
+   "summary": "Самолет авиакомпании «Азимут», летевший из Минеральных Вод в Анталью, приземлился в пункте назначения после сообщения о минировании.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/3/60/777950049136603.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-17T22:39:58+00:00"
+   "date": "2026-11-18T12:25:36+00:00"
   },
   {
-   "title": "[Перевод] Мы всё охотнее миримся с медленной работой программ",
-   "url": "https://habr.com/ru/articles/1109128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109128",
-   "summary": "Недавно Дэн Лу опубликовал статью «Теперь ничто не мешает программам быть быстрыми» (перевод на Хабре). В ней он рассуждает о том, насколько благодаря большим языковым моделям (LLM) подешевели самые разные задачи: от разработки специализиро",
+   "title": "Ялтинская конференция 1945 года: даты, участники и главные договоренности",
+   "url": "https://www.rbc.ru/base/17/11/2026/6afc4044286133e692c32df4",
+   "summary": "Что такое Ялтинская конференция и когда она проходила Ялтинская конференция — это встреча лидеров СССР, США и Великобритании, которая состоялась 4–11 февраля 1945 года в поселке Ливадия неподалеку от Ялты (Крым).",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/23/427949220950239.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T12:25:31+00:00"
+  },
+  {
+   "title": "Форвард «Адмирала» Чезганов рассказал, как нанял репетитора по английскому после перехода в «Шанхай»",
+   "url": "https://www.sport-express.ru/hockey/khl/news/forvard-admirala-chezganov-rasskazal-kak-nanyal-repetitora-po-angliyskomu-posle-perehoda-v-shanhay-2476266/",
+   "summary": "Егор Чезганов вспомнил выступление за «Шанхайские Дрэгонс» и рассказал о знакомстве с североамериканским хоккеем.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:25:00+00:00"
+  },
+  {
+   "title": "Генератор школьных задач на Django: что я понял на 603 темах и 1 809 прогонах",
+   "url": "https://habr.com/ru/articles/1109400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109400",
+   "summary": "603 темы, 1 809 проверенных заданий и 213 тестов — и 1 547 URL, которые пришлось сократить до 453.Я делаю EduTrainer — бесплатный тренажёр по школьным предметам для 1–11 классов. Ученик выбирает тему, решает задачу, сразу получает проверку ",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T22:28:34+00:00"
+   "date": "2026-11-18T12:24:28+00:00"
   },
   {
-   "title": "Vals AI: ИИ‑модели можно использовать как автономное оружие. Они находят цели на снимках и выбирают гражданских",
-   "url": "https://habr.com/ru/articles/1109124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109124",
-   "summary": "Компания Vals AI опубликовала результаты эксперимента, в котором ИИ‑модели попросили искать людей и военные объекты на снимках с боевых дронов и спутников. Системы выполнили большинство прямых запросов и часто выбирали в качестве целей мирн",
+   "title": "Хозяйку российской квартиры удушили двое квартирантов",
+   "url": "https://lenta.ru/news/2026/11/18/hozyayku-kvartiry-udushili-dvoe-kvartirantov/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:22:25+00:00"
+  },
+  {
+   "title": "Министр экономики Армении объяснил, почему не поехал в Москву",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd95a152ca4bd8a0f2fde3",
+   "summary": "Министр экономики Армении Геворг Папоян не поехал 18 ноября в Москву из-за отмены встречи на уровне министров, сообщает Aravot.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/767950045228593.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T12:22:14+00:00"
+  },
+  {
+   "title": "Фон дер Ляйен сделала признание об изъятии активов России",
+   "url": "https://lenta.ru/news/2026/11/18/fon-der-lyayen-sdelala-priznanie-ob-iz-yatii-aktivov-rossii/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118150909781/pic_d6242f2cdb60e7370aaab572893d80fb.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:22:00+00:00"
+  },
+  {
+   "title": "Control: администрирование Jira через чат — с превью последствий",
+   "url": "https://habr.com/ru/articles/1109398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109398",
+   "summary": "Я работаю Atlassian-инженером. Мне нравится писать автоматизации и плагины. Не нравится собирать workflow из 20 статусов и 40 переходов и в очередной раз заводить однотипные поля. А такие запросы приходят постоянно, и каждый по отдельности ",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T22:10:06+00:00"
+   "date": "2026-11-18T12:21:01+00:00"
   },
   {
-   "title": "Соперник Нетаньяху победил на выборах спикера парламента Израиля",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afcd08809bedaadcb863ebe",
-   "summary": "Матан Кахана от оппозиционной партии «Яшар!» избран спикером кнессета, сменив представителя партии Нетаньяху «Ликуд» Амира Охану. За его кандидатуру проголосовали 66 из 120 депутатов парламента",
-   "image": "",
+   "title": "Минпромторг предложил маркировать школьную мебель и оборудование",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd8a6752ca4bd8a0f2fdd9",
+   "summary": "Эксперимент по цифровой маркировке детской и школьной мебели и учебного оборудования предложили провести в России в 2027 году, сообщила пресс-служба Центра развития перспективных технологий (ЦРПТ).",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/187950043682534.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-17T22:09:56+00:00"
+   "date": "2026-11-18T12:13:57+00:00"
   },
   {
-   "title": "Палеокомпьютинг, часть 4. Ещё две Ады: восстанавливаем языки, которые Пентагон не допустил к финалу своего тендера",
-   "url": "https://habr.com/ru/companies/aenix/articles/1109118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109118",
-   "summary": "В феврале 1978 года четыре команды сдали Министерству обороны США предварительные проекты языка, которому через год дадут имя Ада. Проекты обезличили, и вместо названий фирм у них были цвета. Зелёный проект делала франко-американская команд",
+   "title": "«Нафтогаз» Украины заключил контракт на поставку СПГ из США",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd94a0fa3f216c7b67ed18",
+   "summary": "Украинская компания «Нафтогаз» заключила контракт с польским энергетическим концерном Orlen на поставку трех партий американского сжиженного природного газа (СПГ) в первом квартале 2027 года.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/677950042748818.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T12:13:01+00:00"
+  },
+  {
+   "title": "Появились подробности о вооруженном нападении на полицейских в Москве",
+   "url": "https://lenta.ru/news/2026/11/18/poyavilis-podrobnosti-o-vooruzhennom-napadenii-na-politseyskih-v-moskve/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118151158905/pic_85c047078a5c978de48f596277a15c52.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:13:00+00:00"
+  },
+  {
+   "title": "Генерал СБУ обвинил НАБУ и САП в давлении на власти Украины",
+   "url": "https://lenta.ru/news/2026/11/18/general-sbu-obvinil-nabu-i-sap-v-davlenii-na-vlasti-ukrainy/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118150647773/pic_25db46c4d44147f477461e8cb006c1e8.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:12:00+00:00"
+  },
+  {
+   "title": "Медбрат помог предотвратить вооруженное нападение на российскую больницу",
+   "url": "https://lenta.ru/news/2026/11/18/medbrat-pomog-predotvratit-vooruzhennoe-napadenie-na-rossiyskuyu-bolnitsu/",
+   "summary": "",
+   "image": "https://icdn.lenta.ru/images/2026/11/18/15/20261118150340197/pic_5eba8057039910f2c1edfe8dad07b5c0.jpg",
+   "source": "Lenta.ru",
+   "topic": "Общество",
+   "date": "2026-11-18T12:11:00+00:00"
+  },
+  {
+   "title": "Форвард «Адмирала» Чезганов: «Никогда не стал бы специально бить соперника в лицо»",
+   "url": "https://www.sport-express.ru/hockey/khl/news/forvard-admirala-chezganov-nikogda-ne-stal-by-specialno-bit-sopernika-v-lico-2476264/",
+   "summary": "Егор Чезганов объяснил эпизод с форвардом «Спартака» Ильей Котляровым, за который получил четырехматчевую дисквалификацию.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:10:00+00:00"
+  },
+  {
+   "title": "Иностранца приговорили к 12 годам по делу «трансплантологов из Косова»",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd91c3650dc993c76741ff",
+   "summary": "Басманный районный суд Москвы приговорил 42-летнего иностранного гражданина Бориса Вольфмана к 12 годам строгого режима по делу «черных трансплантологов» из Косова.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/617950031946038.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T12:09:15+00:00"
+  },
+  {
+   "title": "Состоялся официальный релиз GTA VI на PS5 и Xbox Series",
+   "url": "https://habr.com/ru/articles/1109396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109396",
+   "summary": "Игра GTA VI, выхода которой ждали 13 лет, доступна на консолях PS5 и Xbox Series X|S игрокам из Новой Зеландии и других территорий в том же часовом поясе.Согласно плану Rockstar, релиз GTA VI, в отличие от её предшественниц, происходит не о",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T21:52:01+00:00"
+   "date": "2026-11-18T12:09:14+00:00"
   },
   {
-   "title": "Синоптик предупредил москвичей о новом снегопаде",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcc055526a5dea6749dd2e",
-   "summary": "В среду, 18 ноября, в Москве ожидается снегопад, который может привести к образованию снежного покрова высотой до 4 сантиметров.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T21:51:20+00:00"
-  },
-  {
-   "title": "Минобороны заявило о выполнении плана набора контрактников почти на 90%",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afcc76f19912f9f39088cb9",
-   "summary": "Минобороны отчиталось о выполнении плана набора контрактников на 2026 год на 89,3%, а в войска беспилотных систем — на 98,7%. Сейчас штатная численность Вооруженных сил составляет 2,44 млн человек, из которых 1,55 — военнослужащие",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T21:45:27+00:00"
-  },
-  {
-   "title": "В НАТО признали, что не хватило «пары миллиардов» на оружие для ВСУ",
-   "url": "https://www.rbc.ru/politics/18/11/2026/6afcb61efa5c27fc8fac070c",
-   "summary": "Генсек НАТО признал, что альянсу не хватает «пары миллиардов» евро для достижения цели по военной помощи Украине. Москва требует прекратить оказание военной помощи Украине",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T21:31:21+00:00"
-  },
-  {
-   "title": "В «Сбере» предложили решение проблемы домашних заданий",
-   "url": "https://www.rbc.ru/society/18/11/2026/6afc2796286133e692c32dab",
-   "summary": "Домашние задания стали хуже отражать знания как сильных, так и слабых студентов, так как генеративным ИИ пользуются студенты с любыми оценками, показало исследование Центра макроэкономических исследований «Сбера»",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/82/377949381583829.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T21:00:32+00:00"
-  },
-  {
-   "title": "Минобороны предложило учредить медаль за помощь в военной операции",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcbb0688182c95b2bf9e78",
-   "summary": "Минобороны России предложило учредить ведомственную медаль «За особые заслуги по обеспечению специальной военной операции» для гражданских лиц, участвующих в обеспечении задач военных действий.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T20:54:00+00:00"
-  },
-  {
-   "title": "KeenProxy 0.9.0: singbox‑lx и все вытекающие последствия",
-   "url": "https://habr.com/ru/articles/1109096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109096",
-   "summary": "В KeenProxy появилась поддержка того самого WG. Да, наконец-то. Переход проекта с singbox на singbox-lx (спасибо великолепным комментаторам хабра ❤) позволил улучшить поддержку множества протоколов.Но добавить новый протокол в приложение дл",
+   "title": "Как измерить реальный SLA Kubernetes-кластера",
+   "url": "https://habr.com/ru/companies/flant/articles/1108754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108754",
+   "summary": "Хабр, привет! Меня зовут Владимир Гурьянов, я технический директор направления Deckhouse Observability в компании «Флант», мы делаем несколько разных продуктов, в том числе Prometheus++ и Deckhouse Observability Platform. А ещё помогаем дру",
    "image": "",
    "source": "Хабр",
    "topic": "Технологии",
-   "date": "2026-11-17T20:47:43+00:00"
+   "date": "2026-11-18T12:09:00+00:00"
   },
   {
-   "title": "В Швеции спрогнозировали Украине «самую тяжелую зиму»",
-   "url": "https://www.rbc.ru/politics/17/11/2026/6afc810549b3d78d99d05003",
-   "summary": "Украину ждет самая тяжелая зима, заявил Йонсон. Он отметил, что Стокгольм предоставит Киеву военную помощь €64,6 млн. Россия осуждает военную помощь Украине",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/17/207949341328170.jpeg",
+   "title": "OpenAI покупает мощности на AMD: что это значит для Nvidia",
+   "url": "https://habr.com/ru/companies/speshu_ai/articles/1109394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109394",
+   "summary": "OpenAI назвала первого облачного провайдера в рамках партнёрства с AMD. Им стала компания TensorWave: она объявила шестилетний контракт на 457 МВт выделенной инфраструктуры на ускорителях AMD Instinct MI455X. Первые мощности должны заработа",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:06:59+00:00"
+  },
+  {
+   "title": "[Перевод] Как поменять уровень логирования на лету в Spring Boot приложении?",
+   "url": "https://habr.com/ru/articles/1109392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109392",
+   "summary": "Всем привет! Меня зовут Сергей Черкасов. Я Developer Advocate в Axelix Labs и работаю над проектом Axelix. Это продукт с открытым исходным кодом, который, среди прочего, позволяет отлаживать работающие приложения Spring Boot.При расследован",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:06:13+00:00"
+  },
+  {
+   "title": "Швеция может отказать российским лыжникам во въезде на ЧМ-2027 в Фалуне",
+   "url": "https://www.sport-express.ru/skiing/news/shveciya-mozhet-otkazat-rossiyskim-lyzhnikam-vo-vezde-na-chm-2027-v-falune-2476260/",
+   "summary": "Правительство Швеции намерено ограничить въезд российских спортсменов в страну, в том числе для участия в ЧМ-2027.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:05:01+00:00"
+  },
+  {
+   "title": "Индексация пенсий в 2027 году: кому и на сколько повысят пенсию",
+   "url": "https://www.rbc.ru/quote/18/11/2026/6afb048e56e36efe9fcd03bf",
+   "summary": "В следующем году получателей страховых пенсий ждет двойная индексация: в феврале и апреле. Как изменится размер выплаты, как проверить и что делать, если прибавка не пришла — разбирались «РБК Инвестиции»",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/897948358997892.jpeg",
    "source": "РБК",
    "topic": "Экономика",
-   "date": "2026-11-17T20:41:51+00:00"
+   "date": "2026-11-18T12:01:14+00:00"
+  },
+  {
+   "title": "Настраиваем Qwen Code под проект: QWEN.md, правила, MCP, субагенты и песочница",
+   "url": "https://habr.com/ru/articles/1109386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109386",
+   "summary": "После установки Qwen Code работает «как есть»: каждый раз заново изучает репозиторий, спрашивает одно и то же и тратит токены на то, что можно было сказать один раз. В прошлой статье разбирали, как подключить Qwen Code к своему ключу и Open",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T12:00:42+00:00"
+  },
+  {
+   "title": "Как руководителю признавать ошибки, говорить «нет» и не терять авторитет",
+   "url": "https://www.rbc.ru/radio/18/11/2026/6afd844b35c6bf5d15b4f6c6",
+   "summary": "Попытка всегда выглядеть правым может подорвать доверие внутри команды. Как руководителю открыто говорить о своих слабостях, разрешать конфликты и при этом сохранять авторитет — в программе Soft Skills на Радио РБК",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/237949994438685.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T12:00:02+00:00"
+  },
+  {
+   "title": "Спортивный психолог объяснил, как вернуть мотивацию для бега зимой",
+   "url": "https://www.sport-express.ru/trops/training/news/sportivnyy-psiholog-obyasnil-kak-vernut-motivaciyu-dlya-bega-zimoy-2476146/",
+   "summary": "Темнота и холод мешают соблюдать график, но иногда достаточно сократить тренировку до десяти минут.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T12:00:00+00:00"
+  },
+  {
+   "title": "Украинскую чемпионку Европы по тяжелой атлетике отстранили за допинг",
+   "url": "https://www.rbc.ru/sport/18/11/2026/6af8a537df0ac5ba01e8c149",
+   "summary": "Допинг-проба Камилы Конотоп дала положительный результат на анаболические стероиды",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/187950026615697.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:58:17+00:00"
+  },
+  {
+   "title": "Российские фигуристы Миронова и Устенко получили визы для участия в турнире в Польше",
+   "url": "https://www.sport-express.ru/figure-skating/news/rossiyskie-figuristy-mironova-i-ustenko-poluchili-vizy-dlya-uchastiya-v-turnire-v-polshe-2476255/",
+   "summary": "Екатерина Миронова и Евгений Устенко, выступающие в танцах на льду, получили визы для участия в турнире серии «челленджер» в Польше.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:56:00+00:00"
+  },
+  {
+   "title": "Hulu продлил сериал «Разумное сомнение» на 5-й сезон",
+   "url": "https://www.sport-express.ru/zozh/movies/serials/news/razumnoe-somnenie-prodlili-na-5-y-sezon-do-finala-chetvertogo-2476176/",
+   "summary": "Юридическая драма с Эммаятзи Коринеальди получила продолжение до выхода финала четвертого сезона, который запланирован на 24 ноября.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:55:00+00:00"
+  },
+  {
+   "title": "Хабр Бизнес — это способ дистанцироваться от корпоративного нейрослопа или новая бизнес модель Хабра?",
+   "url": "https://habr.com/ru/articles/1109364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109364",
+   "summary": "Пару дней назад было рассылка от администрации Хабра с просьбой пройти опрос насчет удовлетворенности текущими публикациями. И наверно я далеко не единственный, кто в очередной раз негативно выразил мнение о качестве и ценности публикаций в",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:53:47+00:00"
+  },
+  {
+   "title": "Тренерский штаб минского «Динамо» выступает против приглашения Кузнецова",
+   "url": "https://www.sport-express.ru/hockey/khl/news/trenerskiy-shtab-minskogo-dinamo-vystupaet-protiv-priglasheniya-kuznecova-2476254/",
+   "summary": "Как стало известно «СЭ», шансы нападающего Евгения Кузнецова на переход в минское «Динамо» снизились.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:52:00+00:00"
+  },
+  {
+   "title": "Bild узнала о планах блока Мерца ужесточить правила натурализации в ФРГ",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd7d8be153730160316960",
+   "summary": "Парламентская фракция консервативного блока канцлера Германии Фридриха Мерца ХДС/ХСС планирует ужесточить правила натурализации в стране, сообщила Bild со ссылкой на проект закона за авторством зампреда фракции Гюнтера Крингса и спикера по ",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/207949988155279.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:50:34+00:00"
+  },
+  {
+   "title": "В ЦБ ожидают появления первых ПИФов на криптовалюту в 2027 году",
+   "url": "https://www.rbc.ru/quote/18/11/2026/6afd833634567f786de81fcb",
+   "summary": "В Банке России ожидают, что первые ПИФы на криптовалюту появятся в 2027 году. Покупать криптовалюту смогут фонды, предназначенные для квалифицированных инвесторов",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/777949998774468.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:49:37+00:00"
+  },
+  {
+   "title": "«Астон Вилла» продлила контракт с полузащитником Онана",
+   "url": "https://www.sport-express.ru/football/england/news/aston-villa-prodlila-kontrakt-s-poluzaschitnikom-onana-2476252/",
+   "summary": "«Астон Вилла» объявила о продлении контракта с полузащитником сборной Бельгии Амаду Онана.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:49:00+00:00"
+  },
+  {
+   "title": "Pocket Android: я создал вторую систему внутри Android и спрятал приложения за прокси",
+   "url": "https://habr.com/ru/articles/1109362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109362",
+   "summary": "Перезагрузил телефон, по привычке сразу ткнул в иконку Claude или ChatGPT, а прокси в фоне еще не поднялся. Запрос улетает с домашнего IP, и привет: в лучшем случае выкидывает из сессии и просит капчу, в худшем аккаунт улетает в бан или пол",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:47:53+00:00"
+  },
+  {
+   "title": "В Раде призвали не ждать снижения возраста мобилизации",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd7ea034567f786de81fbf",
+   "summary": "На Украине ТЦК могут мобилизовывать мужчин возрастом 55 лет и старше.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/067950013768501.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:45:35+00:00"
+  },
+  {
+   "title": "Биеннале 2026 в Венеции",
+   "url": "https://www.rbc.ru/photoslider/6afd8890c68e49d843447182",
+   "summary": "Биеннале 2026 в Венеции",
+   "image": "",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:45:29+00:00"
+  },
+  {
+   "title": "Путин и Трамп пожали друг другу руки на приеме для лидеров АТЭС. Видео",
+   "url": "https://www.rbc.ru/politics/18/11/2026/6afd8deec1dcac8fc6128134",
+   "summary": "Президент России Владимир Путин и американский лидер Дональд Трамп встретились на торжественном приеме для гостей саммита АТЭС в Шэньчжэне.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/617950019942026.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:43:10+00:00"
+  },
+  {
+   "title": "Зачем мы начали писать Guseva OS — российскую операционную систему с нуля",
+   "url": "https://habr.com/ru/articles/1109356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109356",
+   "summary": "Мы разрабатываем Guseva OS — российскую операционную систему с собственным ядром и системным языком GSL. В первой статье рассказываем, зачем взялись за проект, как хотим устроить изоляцию служб и драйверов, что уже проверили в QEMU и что до",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:42:55+00:00"
+  },
+  {
+   "title": "Путин, Трамп и Си Цзиньпин встретились на саммите АТЭС",
+   "url": "https://www.rbc.ru/politics/18/11/2026/6afd8e8e67703f07d414919b",
+   "summary": "Президенты России и США прибыли в Международный коммуникационный центр Шэньчжэня на прием, они пожали друг другу руки. 19 ноября Путин, Трамп и Си проведут трехсторонние переговоры",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/047950022321475.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:42:06+00:00"
+  },
+  {
+   "title": "Сафонов занял девятое место в рейтинге самых дорогих вратарей мира по версии CIES",
+   "url": "https://www.sport-express.ru/football/france/news/safonov-zanyal-devyatoe-mesto-v-reytinge-samyh-dorogih-vratarey-mira-po-versii-cies-2476248/",
+   "summary": "Матвей Сафонов занял девятое место в рейтинге самых дорогих вратарей мира по версии Международного центра спортивных исследований.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:42:00+00:00"
+  },
+  {
+   "title": "Как видео GetAClass помогло повысить эффективность Узловского молочного комбината без увеличения энергозатрат",
+   "url": "https://habr.com/ru/companies/getaclass/articles/1109354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109354",
+   "summary": "В комментариях под недавним постом про видео «Как работает осмос» (у нас, кстати, есть статья на Хабре по этому видео) поделился своей историей Василий Величковский, генеральный директор Узловского молочного комбината и почетный партнер Get",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:41:13+00:00"
+  },
+  {
+   "title": "«123456» — самый популярный пароль в мире последние семь лет",
+   "url": "https://habr.com/ru/articles/1109352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109352",
+   "summary": "Компания NordPass представила восьмой ежегодный рейтинг самых популярных паролей, составленный на основе данных об утечках. Как признают в компании, он очень похож на предыдущие: уже семь лет из восьми его возглавляет пароль «123456».Даже к",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:36:04+00:00"
+  },
+  {
+   "title": "Изоляция воздуховодов и фасонных элементов в nanoCAD BIM Вентиляция",
+   "url": "https://habr.com/ru/companies/nanosoft/articles/1109350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109350",
+   "summary": "Тепловая и огнезащитная изоляция воздуховодов входит почти в каждый проект систем вентиляции и кондиционирования. От нее зависят энергоэффективность системы, защита от образования конденсата, соблюдение требований пожарной безопасности и, к",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:35:59+00:00"
+  },
+  {
+   "title": "Младшего из братьев Емельяненко будут судить за наркотики",
+   "url": "https://www.rbc.ru/sport/18/11/2026/6afd89245c7cbc82f1288e0e",
+   "summary": "В 2024 году Иван Емельяненко получил полтора года колонии за избиение человека, а на свободу вышел по УДО. Теперь его обвиняют по новому уголовному делу, которое уже поступило в Старооскольский городской суд Белгородской области",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/4/25/287950006977254.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:34:34+00:00"
+  },
+  {
+   "title": "Всё еще в догоняющих: обзор Solid2",
+   "url": "https://habr.com/ru/articles/1109348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109348",
+   "summary": "Солид2 порадовал нас новой системой реактивности. Ryan Carniato пишет:Today signals are everywhere.Штож, давайте проверим что получилось Читать далее",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:33:58+00:00"
+  },
+  {
+   "title": "Пакеты в один конец",
+   "url": "https://habr.com/ru/articles/1109346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109346",
+   "summary": "В дата-диодах меня поразила буквальность идеи: можно передавать данные, физически убрав возможность ответить. С одной стороны светят, с другой принимают свет. Обратного передатчика нет. Даже администратор с полными правами не добавит его ко",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:33:55+00:00"
+  },
+  {
+   "title": "В РСТ напомнили, что россияне уже не успеют получить шенген к Новому году",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd8649e7d98e4ba80c2ef5",
+   "summary": "Россиянам, которые еще не оформили шенгенскую визу, уже не стоит рассчитывать на поездку в Европу на новогодние праздники.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/207950010987139.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:33:19+00:00"
+  },
+  {
+   "title": "Источник: российские фигуристы Коломенская и Фролов пропустят турнир в Польше из-за проблем с визами",
+   "url": "https://www.sport-express.ru/figure-skating/news/istochnik-rossiyskie-figuristy-kolomenskaya-i-frolov-propustyat-turnir-v-polshe-iz-za-problem-s-vizami-2476247/",
+   "summary": "Анна Коломенская и Артем Фролов не смогут выступить на турнире серии «челленджер» в Варшаве из-за проблем с оформлением виз.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:33:00+00:00"
+  },
+  {
+   "title": "Нужно ли фильтровать воду, если она соответствует СанПиН?",
+   "url": "https://habr.com/ru/companies/aquaphor/articles/1106532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106532",
+   "summary": "Большинство людей уверены: водопроводную воду нужно фильтровать. Причём даже те, кто сами этого не делают. Но что, если вода соответствует СанПиН, поступает с современной станции водоочистки и приходит в квартиру по новым трубам? Нужен ли ф",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:31:41+00:00"
+  },
+  {
+   "title": "Путин прибыл на торжественный прием для гостей саммита АТЭС. Видео",
+   "url": "https://www.rbc.ru/rbcfreenews/6afd8a5be2382054c4edd2e3",
+   "summary": "Президент России Владимир Путин прибыл на торжественный прием для гостей саммита Азиатско-Тихоокеанского экономического сотрудничества (АТЭС), организованный от имени председателя КНР Си Цзиньпина, сообщает корреспондент РБК.",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/74/377950017058749.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:30:35+00:00"
+  },
+  {
+   "title": "В языке программирования Java нашли уязвимости",
+   "url": "https://www.rbc.ru/technology_and_media/18/11/2026/6afd8644df4c2fc0316fd90f",
+   "summary": "В США и Южной Корее призвали пользователей Java в срочном порядке установить обновления безопасности из-за уязвимостей в в OpenJDK, которые могут позволить злоумышленникам удаленно выполнять код или привести к сбоям в системах",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/067950016434755.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:30:06+00:00"
+  },
+  {
+   "title": "Суд в США разрешил продолжить разбирательство против Samsung, SK Hynix и Micron по делу о ценовом сговоре на рынке ОЗУ",
+   "url": "https://habr.com/ru/articles/1109344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109344",
+   "summary": "Американский суд разрешил продолжить разбирательство против Samsung, SK Hynix и Micron, обвиняемых в ценовом сговоре на рынке оперативной памяти. Инстанция отклонила апелляцию трёх производителей, которые контролируют 90% мирового рынка ОЗУ",
+   "image": "",
+   "source": "Хабр",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:29:23+00:00"
+  },
+  {
+   "title": "Нанни стал первым в истории сборной Сан-Марино автором дубля",
+   "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-nanni-stal-pervym-v-istorii-sbornoy-san-marino-avtorom-dublya-statistika-17-noyabrya-2026-2476259/",
+   "summary": "Нападающий забил оба гола своей команды в матче с Финляндией (2:7). Теперь у него семь мячей за национальную сборную — на один меньше, чем у ее лучшего бомбардира Энди Сельвы.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:28:00+00:00"
+  },
+  {
+   "title": "Россия предложила Молдавии вместе разобраться в ситуации с дронами",
+   "url": "https://www.rbc.ru/politics/18/11/2026/6afd7aade15373016031694a",
+   "summary": "После обнаружения обломков БПЛА в трех районах Молдавии послу России Озерову вручили ноту протеста. Он заявил, что молдавские власти не представили доказательств происхождения дрона, и предложил провести совместное расследование",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/12/487949975705127.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:26:48+00:00"
+  },
+  {
+   "title": "Холанн увеличил рекорд Лиги наций до 25 голов после дубля в ворота Дании",
+   "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-norvegii-erling-holann-dovel-svoy-rekord-po-chislu-golov-v-lige-naciy-uefa-do-25-myachey-2476258/",
+   "summary": "Форвард сборной Норвегии забил дважды в Копенгагене и еще больше оторвался от преследователей в историческом рейтинге турнира. Ближайший из них, Виктор Дьекереш, имеет 16 голов.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:25:01+00:00"
+  },
+  {
+   "title": "Сборная России осталась на 35-й строчке рейтинга ФИФА после ноябрьских матчей",
+   "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-ostalas-na-35-y-strochke-reytinga-fifa-posle-noyabrskih-matchey-2476244/",
+   "summary": "Сборная России сохранила 35-е место в обновленном рейтинге ФИФА.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:25:00+00:00"
+  },
+  {
+   "title": "Paramount+ показал трейлер нового мультсериала о Гарфилде",
+   "url": "https://www.sport-express.ru/zozh/movies/cartoons/news/garfild-multserial-vyydet-na-paramount-11-dekabrya-opublikovan-treyler-2476175/",
+   "summary": "Новый двухмерный мультсериал о рыжем коте выйдет 11 декабря. Все серии первого сезона появятся на платформе одновременно.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:20:00+00:00"
+  },
+  {
+   "title": "Вышла GTA VI",
+   "url": "https://www.rbc.ru/technology_and_media/18/11/2026/6afd88aea618c18f90a36d8c",
+   "summary": "Rockstar Games представила GTA VI: первыми доступ к ней получили геймеры из Новой Зеландии. Игра, действие которой вернется в город Вайс-Сити, прототипом которого был Майами, является одной из самых ожидаемых новинок десятилетия",
+   "image": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/357950008787552.jpeg",
+   "source": "РБК",
+   "topic": "Экономика",
+   "date": "2026-11-18T11:19:43+00:00"
+  },
+  {
+   "title": "Netflix показал первый тизер второго сезона «Задачи трех тел»",
+   "url": "https://www.sport-express.ru/zozh/movies/serials/news/zadacha-treh-tel-2-y-sezon-vyshel-tizer-data-premery-14-yanvarya-2027-goda-2476174/",
+   "summary": "Новые серии научно-фантастического сериала выйдут 14 января 2027 года. В ролике человечество готовится к приближению цивилизации Сан-Ти.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:15:01+00:00"
+  },
+  {
+   "title": "«Реал» продлил контракт с Гюлером до 2032 года",
+   "url": "https://www.sport-express.ru/football/spain/news/real-prodlil-kontrakt-s-gyulerom-do-2032-goda-2476243/",
+   "summary": "«Реал» объявил о продлении контракта с полузащитником Ардой Гюлером.",
+   "image": "",
+   "source": "Спорт-Экспресс",
+   "topic": "Спорт",
+   "date": "2026-11-18T11:14:00+00:00"
+  },
+  {
+   "title": "Солнечная энергетика споткнулась о собственный успех и впервые за восемь лет сбавит обороты — электросети не успевают за генерацией",
+   "url": "https://3dnews.ru/1151461",
+   "summary": "Солнечная энергетика в плане строительства новых электростанций набрала такой невероятный темп, что в 2026 году впервые навредила самой себе: новых площадок построено так много, что многие из них зависли в очереди на подключение. Это и друг",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151461/sol.png",
+   "source": "3DNews",
+   "topic": "Технологии",
+   "date": "2026-11-18T11:06:00+00:00"
+  },
+  {
+   "title": "«Просто идеально и сделано с душой»: моддеры впечатлили фанатов трейлером неофициального ремастера классической Fallout",
+   "url": "https://3dnews.ru/1151456",
+   "summary": "Издатель Bethesda Softworks и разработчики из Bethesda Game Studios не спешат выпускать обновлённую версию классической постапокалиптической ролевой игры Fallout, но за дело уже взялись фанаты. Источник изображения: Bethesda Softworks",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151456/00.jpg",
+   "source": "3DNews",
+   "topic": "Технологии",
+   "date": "2026-11-18T09:56:00+00:00"
+  },
+  {
+   "title": "Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами",
+   "url": "https://3dnews.ru/1151455",
+   "summary": "Nvidia будет придерживаться «дисциплинированного» подхода при принятии решений об объёмах инвестиций в неооблачные платформы и в других клиентов в сфере искусственного интеллекта, заявила ВРИО гендиректора компании Колетт Кресс (Colette Kre",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151455/nvidia_3.jpg",
+   "source": "3DNews",
+   "topic": "Технологии",
+   "date": "2026-11-18T09:10:00+00:00"
+  },
+  {
+   "title": "Valve добавила в Counter-Strike 2 зимний ремейк легендарной карты Cobblestone и механику растапливания снега",
+   "url": "https://3dnews.ru/1151451",
+   "summary": "Для популярного условно-бесплатного соревновательного шутера Counter-Strike 2 от компании Valve вышло крупное обновление, которое ознаменовало возвращение в игру ещё одной легендарной карты. Источник изображения: Valve",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151451/00.jpg",
+   "source": "3DNews",
+   "topic": "Технологии",
+   "date": "2026-11-18T08:07:00+00:00"
+  },
+  {
+   "title": "МТС впервые напрямую подключил смартфон к спутнику — но до полноценной спутниковой связи ещё далеко",
+   "url": "https://3dnews.ru/1151450",
+   "summary": "МТС совместно с государственным оператором «Космическая связь» (ГП КС) провёл испытания прямой связи смартфона с находящимся на геостационарной орбите спутником. Технология окажется полезной для передачи экстренных сообщений и обмена неболь",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151450/sat.jpg",
+   "source": "3DNews",
+   "topic": "Технологии",
+   "date": "2026-11-18T07:13:00+00:00"
   },
   {
    "title": "OpenAI представила две «жутко умные» модели ИИ — GPT-6.2 Astra для профи и GPT-6.2 Sol для повседневных дел",
@@ -731,69 +947,6 @@
    "date": "2026-11-17T20:38:00+00:00"
   },
   {
-   "title": "Apple объяснила масштабный сбой обновлением систем",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcb6145e86864903b9413a",
-   "summary": "Внутреннее обновление Apple, выпущенное во вторник 17 ноября, вызвало масштабные перебои в работе корпоративных систем, и потребительских сервисов компании.",
-   "image": "",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T20:28:28+00:00"
-  },
-  {
-   "title": "Welt рассказала о претензиях экспертов к делу против Усманова в Германии",
-   "url": "https://www.rbc.ru/politics/17/11/2026/6afcaa2b632f4bbee3902038",
-   "summary": "Три немецких эксперта увидели нарушения в расследовании дела против Алишера Усманова об уклонении от уплаты налогов и призвали прекратить его. По их оценке, следствие не располагает достаточными доказательствами, пишет Welt",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/91/587949454042915.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T20:15:20+00:00"
-  },
-  {
-   "title": "Кадыров опубликовал стихотворение под названием «Врагам…»",
-   "url": "https://www.rbc.ru/rbcfreenews/6afcb0e749b3d78d99d0502f",
-   "summary": "Глава Чечни Рамзан Кадыров опубликовал в своем телеграм-канале стихотворение под названием «Врагам…».",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/257949458517034.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T20:13:08+00:00"
-  },
-  {
-   "title": "Mercedes‑Benz показала две технологии, которые превращают стёкла автомобиля в дисплеи для пассажиров и других водителей",
-   "url": "https://habr.com/ru/articles/1109092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109092",
-   "summary": "Mercedes‑Benz показала две технологии, которые превращают автомобильные стёкла в поверхности для вывода информации. Система Intelligent Display in Glass предназначена для «общения» с участниками движения снаружи, а Holographic Display — для",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T20:11:19+00:00"
-  },
-  {
-   "title": "Тесты были зелёными, дыру нашёл человек: разбор уязвимости в нашем OpenID‑сервере",
-   "url": "https://habr.com/ru/articles/1109088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109088",
-   "summary": "Токен, привязанный к ключу через DPoP, на двух наших эндпоинтах принимался без ключа. Как это нашёл внешний исследователь, почему тесты молчали и как мы чинили и раскрывали.Сколько зелёных тестов нужно, чтобы поверить, что защита работает? ",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T20:09:21+00:00"
-  },
-  {
-   "title": "OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы",
-   "url": "https://habr.com/ru/articles/1109080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109080",
-   "summary": "17 ноября OpenAI представила две модели: GPT-6.2 Astra и GPT-6.2 Sol. Astra предназначена для сложных задач, программирования и агентных сценариев, а Sol - для повседневной работы, где важны скорость и экономичность.Первые независимые тесты",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:47:58+00:00"
-  },
-  {
-   "title": "[Перевод] Представляем GPT-6.2 Astra и Sol",
-   "url": "https://habr.com/ru/articles/1109070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109070",
-   "summary": "OpenAI представила GPT-6.2 Astra для сложных профессиональных задач и GPT-6.2 Sol для повседневной работы. В статье сравниваются качество и стоимость моделей на тестах, показаны примеры работы с кодом, документами, CAD и 3D. Читать далее",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:45:41+00:00"
-  },
-  {
    "title": "Arctic выпустила «термопластилин» — прокладки PX-1 и PX-1 Extreme можно мять, резать и подгонять под любые компоненты ПК",
    "url": "https://3dnews.ru/1151434",
    "summary": "Компания Arctic выпустила серию пластичных термопрокладок PX-1 и PX-1 Extreme, которые позиционируются в качестве замены классическим термоинтерфейсам. Материал сочетает в себе сравнимую с глиной или мягким пластилином консистенцию и высоку",
@@ -801,114 +954,6 @@
    "source": "3DNews",
    "topic": "Технологии",
    "date": "2026-11-17T19:44:00+00:00"
-  },
-  {
-   "title": "Bloomberg раскрыл, как США вынудили Европу лавировать по Украине",
-   "url": "https://www.rbc.ru/politics/17/11/2026/6afc936709bedaadcb863e95",
-   "summary": "Желание США заключить соглашение по Украине поставило Европу в затруднительное положение: ЕС хочет обсуждать безопасность после окончания боевых действий, однако решил участвовать в переговорах, чтобы угодить Вашингтону",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/577949451047934.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T19:43:03+00:00"
-  },
-  {
-   "title": "Я заменил себя AI‑аватаром на YouTube и случайно создал эффект зловещей долины",
-   "url": "https://habr.com/ru/articles/1109028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109028",
-   "summary": "Месяц назад мне пришла в голову идея сделать YouTube-канал без своего участия. Чтобы его вела моя цифровая копия. И самое интересное, что технически у меня все получилось. Вот только вместо интереса к самим видео я неожиданно столкнулся с в",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:41:07+00:00"
-  },
-  {
-   "title": "Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО",
-   "url": "https://habr.com/ru/articles/1109074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109074",
-   "summary": "Будем ли мы покупать «профессии» так же, как сегодня покупаем готовые решения на 1С? На примерах рекламной кампании и банковского конвейера разбираю, как ИИ-платформы могут изменить рынок корпоративного ПО. Как будут выглядеть такие системы",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:31:42+00:00"
-  },
-  {
-   "title": "Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров",
-   "url": "https://habr.com/ru/articles/1109072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109072",
-   "summary": "На конференции SC26 в Чикаго Nvidia представила DGX Spark HPC Developer Kit — кластер из четырёх компактных компьютеров DGX Spark с суммарными 512 ГБ памяти. Он рассчитан на исследователей и разработчиков, которым надо локально запускать AI",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:24:32+00:00"
-  },
-  {
-   "title": "uv.lock не менялся, Dockerfile не менялся, а образ перестал собираться",
-   "url": "https://habr.com/ru/companies/otus/articles/1096480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096480",
-   "summary": "Dockerfile не менялся, uv.lock на месте, а образ внезапно перестал собираться. Оказалось, что после обновления uv сам выбрал новую версию Python, для которой у одной из зависимостей ещё нет готового колеса. Разбираемся, какие решения uv при",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:12:19+00:00"
-  },
-  {
-   "title": "MS Now узнал о не принятых КНДР письмах Трампа",
-   "url": "https://www.rbc.ru/politics/17/11/2026/6afc8d3f67e017c6117f43e8",
-   "summary": "С начала 2025 года американские дипломаты несколько раз пытались передать письма от Трампа лидеру КНДР, но северокорейская сторона отказалась их принимать. Последний раз лидеры встречались в 2019 году",
-   "image": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/577949362215933.jpeg",
-   "source": "РБК",
-   "topic": "Экономика",
-   "date": "2026-11-17T19:07:36+00:00"
-  },
-  {
-   "title": "Активация Matrix Access Monitor на китайском микроконтроллере (или MPU для периферии)",
-   "url": "https://habr.com/ru/articles/1107944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107944",
-   "summary": "В микроконтроллере FC7300F8MDT есть блок, который называется Matrix Access Monitor (MAM). Он предоставляет интегрированную масштабируемую архитектуру для управления доступом, защиты памяти и изоляции периферийных устройств. Он позволяет про",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T19:01:06+00:00"
-  },
-  {
-   "title": "Вам не нужны примитивные типы и коллекции",
-   "url": "https://habr.com/ru/articles/1109064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109064",
-   "summary": "Расскажу, почему вам нужно отказаться от примитивных типов и коллекций. На примерах Rust покажу, как описать смысл значений и требования к ним через отдельные типы, чтобы код было проще читать, а компилятор не позволял перепутать аргументы ",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T18:54:05+00:00"
-  },
-  {
-   "title": "Framework представила беспроводную клавиатуру с тачпадом и сменным аккумулятором",
-   "url": "https://habr.com/ru/articles/1109062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109062",
-   "summary": "Framework открыла предзаказ на компактную беспроводную клавиатуру со встроенным тачпадом. Устройство рассчитано на управление компьютером с дивана, работу с мини‑ПК, серверами и другие сценарии, где неудобно держать отдельную мышь. Аккумуля",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T18:47:47+00:00"
-  },
-  {
-   "title": "Шардинг PostgreSQL без потери ACID: как мы построили Postgres Pro Shardman",
-   "url": "https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108408",
-   "summary": "Добавили реплику, нарезали партиции, поставили пулер. Диск всё равно на пределе, VACUUM не успевает, а бэкап идёт сутками. Показываем, как горизонтальное масштабирование на шардинге снимает эти ограничения. Заодно разбираем цену решения: ра",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T18:43:06+00:00"
-  },
-  {
-   "title": "Глобальный сбой в работе сервисов Apple, включая App Store и iCloud",
-   "url": "https://habr.com/ru/articles/1109058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109058",
-   "summary": "17 ноября 2026 года зафиксированы глобальные сбои в работе сервисов Apple, включая App Store и iCloud; данный инцидент не связан с ограничениями или фильтрацией интернет-трафика на уровне отдельных стран. Читать далее",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T18:42:11+00:00"
-  },
-  {
-   "title": "Почему клиентская заявка теряется между отделами: ownership, handoff и наблюдаемость процесса",
-   "url": "https://habr.com/ru/articles/1109056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109056",
-   "summary": "Клиент просит рассчитать поставку оборудования. Продажи пересылают письмо инженерам, инженеры — закупкам, закупки возвращают уточнение в продажи. В журнале коммуникаций всё выглядит благополучно: сообщения доставлены, задачи отмечены, участ",
-   "image": "",
-   "source": "Хабр",
-   "topic": "Технологии",
-   "date": "2026-11-17T18:40:09+00:00"
   },
   {
    "title": "Дженсен Хуанг заявил, что для него «будет честью» вернуться на должность главы Nvidia",
@@ -1071,51 +1116,6 @@
    "source": "3DNews",
    "topic": "Технологии",
    "date": "2026-11-16T09:53:00+00:00"
-  },
-  {
-   "title": "Японский зонд летит за грунтом астероида, но может найти там потерянную станцию с надписью «Сделано в СССР»",
-   "url": "https://3dnews.ru/1151345",
-   "summary": "Японский зонд «Хаябуса-2» летит за образцами грунта к астероиду 1998 KY26. Но всё, что он там обнаружит, — это мёртвая автоматическая станция «Фобос-1» с надписью «СССР», говорят учёные со ссылкой на новые модели движения объекта. Модельное",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151345/asteroid-split-image-nasa.jpg",
-   "source": "3DNews",
-   "topic": "Технологии",
-   "date": "2026-11-16T09:52:00+00:00"
-  },
-  {
-   "title": "Открытый ИИ потерял главного союзника: уход Хуанга может сыграть на руку OpenAI и Anthropic",
-   "url": "https://3dnews.ru/1151346",
-   "summary": "Отставка Дженсена Хуанга (Jensen Huang) с поста генерального директора Nvidia может изменить расстановку сил на рынке. Бывший руководитель компании был одним из наиболее влиятельных сторонников открытых ИИ-моделей и поддерживал их развитие ",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151346/NVIDIA-VERA-RUBIN_02.jpg",
-   "source": "3DNews",
-   "topic": "Технологии",
-   "date": "2026-11-16T09:14:00+00:00"
-  },
-  {
-   "title": "Акционеры подали в суд на Intel за сокрытие проблем с чипами для ПК — последней каплей стали рухнувшие на 29 % акции",
-   "url": "https://3dnews.ru/1151344",
-   "summary": "Акционеры Intel подали в суд на компанию, обвинив чипмейкера в обмане. Они считают, что Intel намеренно скрывала последствия затяжного спада продаж процессоров для персональных компьютеров, что привело к падению стоимости акций компании на ",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151344/516.jpg",
-   "source": "3DNews",
-   "topic": "Технологии",
-   "date": "2026-11-16T08:48:00+00:00"
-  },
-  {
-   "title": "Конкурент Starlink потерял 40 спутников разом: первый после перерыва пуск ракеты Vulcan Centaur провалился",
-   "url": "https://3dnews.ru/1151342",
-   "summary": "Компания United Launch Alliance (ULA) столкнулась с нештатной ситуацией во время запуска ракеты Vulcan Centaur, в результате чего были потеряны 40 телекоммуникационных спутников для низкоорбитальной группировки Amazon Leo. Пуск провели с пл",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151342/514.jpg",
-   "source": "3DNews",
-   "topic": "Технологии",
-   "date": "2026-11-16T08:05:00+00:00"
-  },
-  {
-   "title": "Амбициозная стратегия от разработчика-одиночки отправит вести грандиозные космические и наземные битвы — геймплейный трейлер Horu",
-   "url": "https://3dnews.ru/1151341",
-   "summary": "Американский инди-разработчик Дэвид Надаски (David Nadaski), скрывающийся под псевдонимом GlassBeaver, представил геймплейный трейлер своей научно-фэнтезийной стратегии в реальном времени Horu. Источник изображений: GlassBeaver",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151341/00.jpg",
-   "source": "3DNews",
-   "topic": "Технологии",
-   "date": "2026-11-16T07:48:00+00:00"
   }
  ]
 }
